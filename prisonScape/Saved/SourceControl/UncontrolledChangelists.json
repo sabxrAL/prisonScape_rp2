@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/Blueprints/BP_Locker.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/Audio/MS_Footstep.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/Audio/SA_Character.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/BP_AI_Controller.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/BP_AI.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/Tasks/BTTask_BlueprintBase_New.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/Tasks/BT_Task_Roaming.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/BT_AI.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/BD_AI.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/VH/EVE0VGP9KRUS4O4B9U3YBN.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X3/ATNS420IRZ2Q6FBY1E0MU1.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NI/R4G11SNKLY4Y3VTOOXG8N8.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/Audio/st3-footstep-sfx-323056.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/AI_BlendSpace1D.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/ABP_AI.uasset",
+				"C:/Users/Matthew/Documents/Unreal Projects/prisonScape/Content/AI/Tasks/BT_Task_ChasePlayer.uasset"
+			]
+		}
+	]
+}
