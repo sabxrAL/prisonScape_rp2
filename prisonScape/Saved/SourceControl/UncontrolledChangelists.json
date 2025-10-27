@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/Bp_Bricks.uasset",
+				"C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/CarcelMapa_Modelado.uasset",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/NivelCarcelFPS.umap",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap",
