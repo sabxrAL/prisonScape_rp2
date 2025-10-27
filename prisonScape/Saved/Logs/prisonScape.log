@@ -3248,3 +3248,167 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-18.33.18:818][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-18.33.18:819][ 66]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
 [2025.10.27-18.33.20:758][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.27-18.36.02:004][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4013.565186
+[2025.10.27-18.36.02:171][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.36.02:171][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4013.723633, Update Interval: 351.941284
+[2025.10.27-18.36.08:262][592]Cmd: TRANSACTION UNDO
+[2025.10.27-18.36.08:262][592]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.27-18.36.25:443][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.27-18.36.25:443][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.27-18.36.25:445][557]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_1
+[2025.10.27-18.36.25:446][557]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_1
+[2025.10.27-18.36.26:655][667]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_12
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2025.10.27-18.37.32:400][500]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.37.32:568][500]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-18.38.15:083][571]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.38.16:061][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_13
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: ================================================
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Total job queries 11 685, among them cache hits 11 (0.09%), DDC hits 0 (0.00%), Duplicates 2681 (22.94%)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Tracking 8993 distinct input hashes that result in 8492 distinct outputs (94.43%)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: RAM used: 6,37 MiB of 1,60 GiB budget. Usage: 0.39%
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Shaders Compiled: 8993
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Jobs assigned 8993, completed 8993 (100%)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Average time worker was idle: 29.85 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Time job spent in pending queue: average 123.20 s, longest 258.96 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Job execution time: average 4.70 s, max 81.76 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Job life time (pending + execution): average 127.90 s, max 292.07
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Shader code size: average 14,27 KiB, min 1,16 KiB, max 330,166 KiB
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 320.26 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.52%
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Jobs were issued in 1055 batches (only local compilation was used), average 8.52 jobs/batch
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Average processing rate: 28.08 jobs/sec
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Total thread time: 4303,555 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Total thread preprocess time: 120,171 s
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Percentage time preprocessing: 2.79%
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Effective parallelization: 13.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 16.46 sec, max 59.75 sec, min 1.05 sec)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 14.52 sec, max 14.52 sec, min 14.52 sec)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.94 sec, max 9.96 sec, min 5.24 sec)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 3.72 sec, max 3.72 sec, min 3.72 sec)
+[2025.10.27-18.38.17:574][853]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 3.40 sec, max 6.96 sec, min 1.09 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display:                                             FDeferredLightPS - 15.01% of total time (compiled  454 times, average 1.42 sec, max 3.16 sec, min 0.83 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.48% of total time (compiled  260 times, average 1.73 sec, max 4.61 sec, min 0.00 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 10.33% of total time (compiled   27 times, average 16.46 sec, max 59.75 sec, min 1.05 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.56% of total time (compiled  480 times, average 0.41 sec, max 1.19 sec, min 0.16 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.43% of total time (compiled   72 times, average 2.65 sec, max 4.48 sec, min 1.81 sec)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: === Material stats ===
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Materials Translated:    150
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Material Translation Only: 0.05 s (32%)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.27-18.38.17:575][853]LogShaderCompilers: Display: ================================================
+[2025.10.27-18.39.20:664][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56.Boolean_E9C8FD56
+[2025.10.27-18.39.20:664][413]LogStaticMesh: Display: Building static mesh Boolean_E9C8FD56 (Required Memory Estimate: 0.081517 MB)...
+[2025.10.27-18.39.20:665][413]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56.Boolean_E9C8FD56
+[2025.10.27-18.39.20:665][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56.Boolean_E9C8FD56 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_196
+[2025.10.27-18.39.45:664][413]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.10.27-18.39.45:717][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.27-18.39.45:719][413]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2025.10.27-18.39.45:719][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.27-18.39.45:733][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.39.45:734][413]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.10.27-18.39.52:822][245]Cmd: TRANSACTION UNDO
+[2025.10.27-18.39.52:822][245]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.27-18.39.55:156][466]Cmd: TRANSACTION UNDO
+[2025.10.27-18.39.55:156][466]LogEditorTransaction: Undo Boolean Meshes
+[2025.10.27-18.40.14:986][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129.Boolean_C139D129
+[2025.10.27-18.40.14:987][827]LogStaticMesh: Display: Building static mesh Boolean_C139D129 (Required Memory Estimate: 0.074267 MB)...
+[2025.10.27-18.40.14:987][827]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129.Boolean_C139D129
+[2025.10.27-18.40.14:987][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129.Boolean_C139D129 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_197
+[2025.10.27-18.40.18:764][827]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.10.27-18.40.18:772][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.27-18.40.18:794][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.27-18.40.18:795][827]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.10.27-18.40.18:798][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.27-18.40.18:811][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.27-18.40.18:812][827]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.10.27-18.40.30:724][210]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-18.40.37:792][ 39]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.27-18.40.37:797][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-18.40.37:825][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.10.27-18.40.37:840][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014544s)
+[2025.10.27-18.40.37:840][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.014574s)
+[2025.10.27-18.40.37:854][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.27-18.40.37:857][ 39]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2025.10.27-18.40.37:858][ 39]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2025.10.27-18.40.37:858][ 39]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-18.40.37:858][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-18.40.37:858][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-18.40.37:858][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-18.40.37:858][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-18.40.37:858][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-18.40.37:860][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-18.40.37:873][ 39]LogAudioMixer: Display: Using Audio Hardware Device HP P24h G5 (NVIDIA High Definition Audio)
+[2025.10.27-18.40.37:873][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-18.40.37:873][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-18.40.37:873][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-18.40.37:874][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.27-18.40.37:874][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.27-18.40.37:875][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.27-18.40.37:875][ 39]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.27-18.40.37:875][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.27-18.40.37:875][ 39]LogAudio: Display: Audio Device (ID: 14) registered with world 'Carcel_FPS'.
+[2025.10.27-18.40.37:875][ 39]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.27-18.40.37:877][ 39]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.27-18.40.37:884][ 39]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2025.10.27-19.40.37
+[2025.10.27-18.40.37:884][ 39]LogWorld: Bringing up level for play took: 0.006253
+[2025.10.27-18.40.37:886][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.10.27-18.40.37:889][ 39]PIE: Server logged in
+[2025.10.27-18.40.37:890][ 39]PIE: Play in editor total start time 0,094 seconds.
+[2025.10.27-18.40.50:417][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-18.40.50:417][535]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.10.27-18.40.50:417][535]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.40.50:419][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.40.50:434][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-18.40.50:437][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.40.50:452][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-18.40.50:452][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.27-18.40.50:452][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.27-18.40.50:454][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.27-18.40.50:459][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-18.40.50:462][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.27-18.40.50:513][536]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.10.27-18.40.53:319][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.27-18.40.53:322][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.40.53:409][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.27-18.40.53:453][850]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.10.27-18.40.53:453][850]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSB873675B46F2A10F4F54C697BCD9B64C.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.10.27-18.40.53:461][850]LogFileHelpers: Saving map 'Carcel_FPS' took 0.075
+[2025.10.27-18.40.53:461][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56] ([1] browsable assets)...
+[2025.10.27-18.40.53:483][850]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56.Boolean_E9C8FD56]
+[2025.10.27-18.40.53:483][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56]
+[2025.10.27-18.40.53:484][850]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56
+[2025.10.27-18.40.53:484][850]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_E9C8FD56ABA078384CF622F60CE99BA509141A93.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56.uasset'
+[2025.10.27-18.40.53:488][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129] ([1] browsable assets)...
+[2025.10.27-18.40.53:492][850]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129.Boolean_C139D129]
+[2025.10.27-18.40.53:492][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129]
+[2025.10.27-18.40.53:494][850]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129
+[2025.10.27-18.40.53:494][850]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_C139D129EAA083134E9D6112F1C2B7B362AD63D4.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129.uasset'
+[2025.10.27-18.40.53:506][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.350 ms (total: 1.87 sec)
+[2025.10.27-18.40.53:547][850]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.27-18.40.53:547][850]LogContentValidation: Enabled validators:
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.40.53:547][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.40.53:547][850]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.10.27-18.40.53:547][850]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_E9C8FD56 Validating asset
+[2025.10.27-18.40.53:548][850]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/Alumno/Boolean_C139D129 Validating asset
