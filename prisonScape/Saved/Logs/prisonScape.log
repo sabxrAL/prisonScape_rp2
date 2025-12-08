@@ -1751,3 +1751,476 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.08-16.55.01:813][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.08-16.55.01:813][681]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.08-16.55.01:813][681]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-16.59.20:405][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1010.684570
+[2025.12.08-16.59.21:406][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-16.59.21:406][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1011.351379, Update Interval: 341.692566
+[2025.12.08-17.03.01:129][762]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.03.29:567][828]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.03.44:289][875]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Total job queries 193, among them cache hits 22 (11.40%), DDC hits 149 (77.20%), Duplicates 1 (0.52%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 152 distinct outputs (89.41%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: RAM used: 119.64 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Average time worker was idle: 86.54 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Job execution time: average 1.32 s, max 2.16 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 2.25
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Shader code size: average 8.458 KiB, min 5.047 KiB, max 13.102 KiB
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.96 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Average processing rate: 2.34 jobs/sec
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Total thread time: 12.794 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Total thread preprocess time: 3.308 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Percentage time preprocessing: 25.86%
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Effective parallelization: 1.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.23 sec, max 1.29 sec, min 1.13 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.66 sec, max 0.72 sec, min 0.59 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.46 sec, max 0.49 sec, min 0.43 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.45 sec, max 0.48 sec, min 0.41 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.74% of total time (compiled    3 times, average 1.23 sec, max 1.29 sec, min 1.13 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.74% of total time (compiled    4 times, average 0.66 sec, max 0.72 sec, min 0.59 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.41% of total time (compiled    5 times, average 0.45 sec, max 0.48 sec, min 0.41 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.44% of total time (compiled    4 times, average 0.46 sec, max 0.49 sec, min 0.43 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.38% of total time (compiled    4 times, average 0.43 sec, max 0.49 sec, min 0.39 sec)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Materials Translated:    151
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Material Translation Only: 0.06 s (55%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: Material Cache Hits: 45 (30%)
+[2025.12.08-17.03.47:018][ 51]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.03.54:471][612]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.04.28:476][109]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.05.17:491][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1367.761963
+[2025.12.08-17.05.17:654][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.05.17:654][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1367.914185, Update Interval: 300.076904
+[2025.12.08-17.05.42:634][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.08-17.05.42:740][778]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Carcel_FPS_Auto1
+[2025.12.08-17.05.42:741][778]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS_Auto15EC87A464C19B00FA6E75C88A5113A2D.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Autosaves/Game/ThirdPerson/Maps/Carcel_FPS_Auto1.umap'
+[2025.12.08-17.05.42:743][778]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Carcel_FPS' took 0.134
+[2025.12.08-17.05.42:743][778]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2025.12.08-17.05.42:744][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0] ([1] browsable assets)...
+[2025.12.08-17.05.42:791][778]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0.Boolean_523D86D0]
+[2025.12.08-17.05.42:791][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0]
+[2025.12.08-17.05.42:794][778]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0_Auto1
+[2025.12.08-17.05.42:794][778]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_523D86D0_Auto1E93A3F914390A6BA6FE8E6A795BD8B42.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0_Auto1.uasset'
+[2025.12.08-17.05.42:795][778]LogFileHelpers: Auto-saving content packages took 0.052
+[2025.12.08-17.05.55:921][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.05.56:054][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.08-17.05.56:154][813]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-17.05.56:154][813]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSE902220F4675C2AD423A8C9E1F20844A.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-17.05.56:170][813]LogFileHelpers: Saving map 'Carcel_FPS' took 0.169
+[2025.12.08-17.05.56:183][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.797 ms (total: 1.66 sec)
+[2025.12.08-17.05.56:250][813]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-17.05.56:250][813]LogContentValidation: Enabled validators:
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.05.56:250][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.05.56:250][813]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: Total job queries 203, among them cache hits 22 (10.84%), DDC hits 149 (73.40%), Duplicates 1 (0.49%)
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: Tracking 180 distinct input hashes that result in 158 distinct outputs (87.78%)
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: RAM used: 121.42 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: Shaders Compiled: 31
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2025.12.08-17.06.47:021][747]LogShaderCompilers: Display: Average time worker was idle: 61.48 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Job execution time: average 1.27 s, max 2.16 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 2.25
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Shader code size: average 8.86 KiB, min 5.047 KiB, max 15.57 KiB
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.50 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Total thread time: 19.278 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Total thread preprocess time: 3.448 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Percentage time preprocessing: 17.89%
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Effective parallelization: 1.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.20 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.67 sec, max 0.72 sec, min 0.59 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    6 times, average 0.48 sec, max 0.51 sec, min 0.43 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.21% of total time (compiled    5 times, average 1.20 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.75% of total time (compiled    6 times, average 0.67 sec, max 0.72 sec, min 0.59 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.30% of total time (compiled    7 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.81% of total time (compiled    6 times, average 0.48 sec, max 0.51 sec, min 0.43 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.42% of total time (compiled    6 times, average 0.43 sec, max 0.49 sec, min 0.39 sec)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Materials Translated:    153
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Material Translation Only: 0.06 s (55%)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: Material Cache Hits: 45 (29%)
+[2025.12.08-17.06.47:023][747]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.10.44:144][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1694.413330
+[2025.12.08-17.10.44:295][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.10.44:295][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1694.555176, Update Interval: 337.155060
+[2025.12.08-17.13.01:241][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.08-17.13.01:340][634]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.08-17.13.09:679][277]Cmd: DUPLICATE
+[2025.12.08-17.13.09:679][277]Cmd: ACTOR DUPLICATE
+[2025.12.08-17.16.37:867][917]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-17.16.49:760][994]LogShaderCompilers: Error: ShaderCompileWorker terminated unexpectedly, return code -1073741819! Falling back to directly compiling which will be very slow.  Thread 3.
+[2025.12.08-17.16.49:760][994]LogShaderCompilers: Error: SCW 1 Queued Jobs, Unknown number of processed jobs!
+[2025.12.08-17.16.49:760][994]LogShaderCompilers: Error: Job 0 [Single] Failed: M_Brick_Clay_New_eab03dabe011d19/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FLocalVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2025.12.08-17.16.50:381][ 48]LogShaderCompilers: Display: Retry shader compiling through workers.
+[2025.12.08-17.17.05:024][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2075.294678
+[2025.12.08-17.17.05:196][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.17.05:196][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.454590, Update Interval: 333.974426
+[2025.12.08-17.17.14:443][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.17.14:551][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.12.08-17.17.14:655][233]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-17.17.14:657][233]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSBCC1B0084DFADDF12E67338317B57704.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-17.17.14:671][233]LogFileHelpers: Saving map 'Carcel_FPS' took 0.178
+[2025.12.08-17.17.14:681][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.283 ms (total: 1.89 sec)
+[2025.12.08-17.17.14:714][233]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-17.17.14:714][233]LogContentValidation: Enabled validators:
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.17.14:714][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.17.14:714][233]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-17.17.26:718][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-17.17.26:718][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-17.17.26:719][183]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_193
+[2025.12.08-17.17.26:721][183]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_193
+[2025.12.08-17.18.06:779][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-17.18.06:779][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-17.18.06:780][483]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_196
+[2025.12.08-17.18.06:781][483]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_196
+[2025.12.08-17.18.28:309][195]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Total job queries 208, among them cache hits 22 (10.58%), DDC hits 149 (71.63%), Duplicates 1 (0.48%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 161 distinct outputs (87.03%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: RAM used: 122.39 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Shaders Compiled: 36
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Average time worker was idle: 168.95 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 12.33 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 12.40
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Shader code size: average 8.824 KiB, min 5.047 KiB, max 15.57 KiB
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.90 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Average processing rate: 1.45 jobs/sec
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Total thread time: 22.355 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Total thread preprocess time: 3.515 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Percentage time preprocessing: 15.72%
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.19 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.65 sec, max 0.72 sec, min 0.58 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 0.48 sec, max 0.51 sec, min 0.43 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.05% of total time (compiled    6 times, average 1.19 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.47% of total time (compiled    7 times, average 0.65 sec, max 0.72 sec, min 0.58 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.04% of total time (compiled    8 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.93% of total time (compiled    7 times, average 0.48 sec, max 0.51 sec, min 0.43 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.49% of total time (compiled    7 times, average 0.43 sec, max 0.49 sec, min 0.39 sec)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Materials Translated:    154
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Material Translation Only: 0.06 s (55%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: Material Cache Hits: 45 (29%)
+[2025.12.08-17.18.47:036][965]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.19.04:909][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61.Boolean_A3B85B61
+[2025.12.08-17.19.04:910][663]LogStaticMesh: Display: Building static mesh Boolean_A3B85B61 (Required Memory Estimate: 0.167667 MB)...
+[2025.12.08-17.19.04:910][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61.Boolean_A3B85B61 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_198
+[2025.12.08-17.19.04:910][663]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61.Boolean_A3B85B61
+[2025.12.08-17.19.30:885][663]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.12.08-17.19.30:947][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.12.08-17.19.30:952][663]LogEditorActor: Deleted 0 Actors (0.068 secs)
+[2025.12.08-17.19.30:953][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.08-17.19.30:983][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.08-17.19.30:983][663]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.12.08-17.20.05:316][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD.Boolean_A711ECFD
+[2025.12.08-17.20.05:316][899]LogStaticMesh: Display: Building static mesh Boolean_A711ECFD (Required Memory Estimate: 0.123287 MB)...
+[2025.12.08-17.20.05:317][899]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD.Boolean_A711ECFD
+[2025.12.08-17.20.05:317][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD.Boolean_A711ECFD as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_199
+[2025.12.08-17.20.05:466][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.08-17.20.05:496][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.12.08-17.20.05:502][899]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.12.08-17.20.05:507][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.08-17.20.05:528][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.08-17.20.05:529][899]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.12.08-17.20.12:719][598]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.12.08-17.20.13:944][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.20.14:040][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.12.08-17.20.14:142][712]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-17.20.14:144][712]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSC0B9791D409400E0936ED69C2604A0F8.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-17.20.14:159][712]LogFileHelpers: Saving map 'Carcel_FPS' took 0.171
+[2025.12.08-17.20.14:173][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.394 ms (total: 2.12 sec)
+[2025.12.08-17.20.14:210][712]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-17.20.14:210][712]LogContentValidation: Enabled validators:
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.20.14:210][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.20.14:210][712]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-17.20.15:097][784]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-17.20.15:106][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-17.20.15:135][784]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-17.20.15:166][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029814s)
+[2025.12.08-17.20.15:166][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.029852s)
+[2025.12.08-17.20.15:188][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.12.08-17.20.15:190][784]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2025.12.08-17.20.15:191][784]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2025.12.08-17.20.15:191][784]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-17.20.15:191][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-17.20.15:191][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-17.20.15:191][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-17.20.15:191][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-17.20.15:191][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-17.20.15:195][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-17.20.15:250][784]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2025.12.08-17.20.15:250][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-17.20.15:250][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-17.20.15:250][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-17.20.15:250][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.08-17.20.15:250][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.08-17.20.15:253][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.08-17.20.15:253][784]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.08-17.20.15:253][784]LogAudio: Display: Audio Device (ID: 6) registered with world 'Carcel_FPS'.
+[2025.12.08-17.20.15:253][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.08-17.20.15:253][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.08-17.20.15:256][784]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.08-17.20.15:266][784]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2025.12.08-18.20.15
+[2025.12.08-17.20.15:268][784]LogWorld: Bringing up level for play took: 0.011679
+[2025.12.08-17.20.15:270][784]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.12.08-17.20.15:276][784]PIE: Server logged in
+[2025.12.08-17.20.15:278][784]PIE: Play in editor total start time 0.172 seconds.
+[2025.12.08-17.20.54:316][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.20.54:316][420]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-17.20.54:316][420]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-17.20.54:319][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.20.54:323][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-17.20.54:330][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.20.54:348][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.20.54:350][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.08-17.20.54:350][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.12.08-17.20.54:352][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.12.08-17.20.54:363][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.12.08-17.20.54:451][421]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.08-17.21.45:680][892]Cmd: DUPLICATE
+[2025.12.08-17.21.45:680][892]Cmd: ACTOR DUPLICATE
+[2025.12.08-17.22.04:180][308]Cmd: TRANSACTION UNDO
+[2025.12.08-17.22.04:180][308]LogEditorTransaction: Undo Move Elements
+[2025.12.08-17.22.26:592][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.22.26:694][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.08-17.22.26:796][124]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-17.22.26:797][124]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS7272A95647A4D5D5E68940A107EAB3BB.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-17.22.26:812][124]LogFileHelpers: Saving map 'Carcel_FPS' took 0.172
+[2025.12.08-17.22.26:822][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.418 ms (total: 2.35 sec)
+[2025.12.08-17.22.26:857][124]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-17.22.26:857][124]LogContentValidation: Enabled validators:
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.22.26:857][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.22.26:857][124]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-17.22.28:747][304]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-17.22.28:760][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-17.22.28:787][304]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-17.22.28:816][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029398s)
+[2025.12.08-17.22.28:816][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.029435s)
+[2025.12.08-17.22.28:839][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.08-17.22.28:840][304]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2025.12.08-17.22.28:842][304]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2025.12.08-17.22.28:842][304]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-17.22.28:842][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-17.22.28:842][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-17.22.28:842][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-17.22.28:842][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-17.22.28:842][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-17.22.28:846][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-17.22.28:899][304]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2025.12.08-17.22.28:900][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-17.22.28:900][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-17.22.28:900][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-17.22.28:900][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.08-17.22.28:900][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.08-17.22.28:903][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.08-17.22.28:903][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.08-17.22.28:903][304]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.08-17.22.28:903][304]LogAudio: Display: Audio Device (ID: 7) registered with world 'Carcel_FPS'.
+[2025.12.08-17.22.28:903][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.08-17.22.28:906][304]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.08-17.22.28:916][304]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2025.12.08-18.22.28
+[2025.12.08-17.22.28:918][304]LogWorld: Bringing up level for play took: 0.011270
+[2025.12.08-17.22.28:919][304]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.12.08-17.22.28:926][304]PIE: Server logged in
+[2025.12.08-17.22.28:927][304]PIE: Play in editor total start time 0.168 seconds.
+[2025.12.08-17.22.52:877][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.22.52:877][470]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-17.22.52:878][470]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-17.22.52:880][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.22.52:884][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-17.22.52:889][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.22.52:911][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.22.52:913][470]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.08-17.22.52:913][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.12.08-17.22.52:915][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.12.08-17.22.52:926][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.12.08-17.22.53:013][471]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.12.08-17.23.16:086][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.23.16:086][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.12.08-17.23.16:086][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_Concrete_Tiles]
+[2025.12.08-17.23.16:086][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Concrete_Tiles" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/M_Concrete_Tiles.uasset" SILENT=true
+[2025.12.08-17.23.16:091][296]LogSavePackage: Moving output files for package: /Game/M_Concrete_Tiles
+[2025.12.08-17.23.16:091][296]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/M_Concrete_Tiles6148470B458254A6EBDB7786723B8889.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/M_Concrete_Tiles.uasset'
+[2025.12.08-17.23.16:092][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.12.08-17.23.16:092][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2025.12.08-17.23.16:095][296]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Concrete_Tiles
+[2025.12.08-17.23.16:095][296]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/M_Concrete_TilesBDAC1C9C454739857836C68D8639338E.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2025.12.08-17.23.16:097][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.946 ms (total: 2.36 sec)
+[2025.12.08-17.23.16:117][296]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.08-17.23.16:117][296]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.08-17.23.16:117][296]LogContentValidation: Enabled validators:
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.23.16:117][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.23.16:117][296]AssetCheck: /Game/M_Concrete_Tiles Validating asset
+[2025.12.08-17.23.16:117][296]AssetCheck: /Game/StarterContent/Materials/M_Concrete_Tiles Validating asset
+[2025.12.08-17.23.31:235][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.23.31:236][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.12.08-17.23.31:236][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2025.12.08-17.23.31:236][515]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Concrete_Tiles
+[2025.12.08-17.23.31:237][515]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/M_Concrete_Tiles06D134E846EF7A4B54F839B6070EF4BE.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2025.12.08-17.23.31:239][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapaCarcel/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.12.08-17.23.31:239][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapaCarcel/M_Concrete_Tiles]
+[2025.12.08-17.23.31:239][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapaCarcel/M_Concrete_Tiles" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/MapaCarcel/M_Concrete_Tiles.uasset" SILENT=true
+[2025.12.08-17.23.31:244][515]LogSavePackage: Moving output files for package: /Game/MapaCarcel/M_Concrete_Tiles
+[2025.12.08-17.23.31:244][515]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/M_Concrete_Tiles8543B3174CD498304A08358D83BA143C.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/MapaCarcel/M_Concrete_Tiles.uasset'
+[2025.12.08-17.23.31:246][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.968 ms (total: 2.37 sec)
+[2025.12.08-17.23.31:311][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.12.08-17.23.31:335][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.12.08-17.23.31:350][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.08-17.23.31:374][515]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.08-17.23.31:374][515]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.08-17.23.31:374][515]LogContentValidation: Enabled validators:
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.23.31:374][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.23.31:375][515]AssetCheck: /Game/StarterContent/Materials/M_Concrete_Tiles Validating asset
+[2025.12.08-17.23.31:375][515]AssetCheck: /Game/MapaCarcel/M_Concrete_Tiles Validating asset
+[2025.12.08-17.23.38:514][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2468.785400
+[2025.12.08-17.23.38:687][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.23.38:687][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2468.946289, Update Interval: 306.828217
+[2025.12.08-17.23.40:116][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.08-17.23.40:120][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.23.40:153][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0] ([1] browsable assets)...
+[2025.12.08-17.23.40:153][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0]
+[2025.12.08-17.23.40:155][242]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0
+[2025.12.08-17.23.40:155][242]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_523D86D07DFD5F0A4D39FE896216D9BF6A1A6DD6.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0.uasset'
+[2025.12.08-17.23.40:158][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61] ([1] browsable assets)...
+[2025.12.08-17.23.40:205][242]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61.Boolean_A3B85B61]
+[2025.12.08-17.23.40:205][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61]
+[2025.12.08-17.23.40:208][242]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61
+[2025.12.08-17.23.40:208][242]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_A3B85B61EA0366A844717073B6BDF5ABF8858F40.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61.uasset'
+[2025.12.08-17.23.40:209][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD] ([1] browsable assets)...
+[2025.12.08-17.23.40:217][242]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD.Boolean_A711ECFD]
+[2025.12.08-17.23.40:217][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD]
+[2025.12.08-17.23.40:218][242]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD
+[2025.12.08-17.23.40:218][242]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Boolean_A711ECFDD0D213F44A43668603AD5EA859E24A3E.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD.uasset'
+[2025.12.08-17.23.40:229][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.399 ms (total: 2.48 sec)
+[2025.12.08-17.23.40:259][242]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.08-17.23.40:259][242]LogContentValidation: Enabled validators:
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.23.40:259][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.23.40:259][242]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_523D86D0 Validating asset
+[2025.12.08-17.23.40:259][242]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A3B85B61 Validating asset
+[2025.12.08-17.23.40:259][242]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/Matthew/Boolean_A711ECFD Validating asset
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: ================================================
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Total job queries 218, among them cache hits 26 (11.93%), DDC hits 149 (68.35%), Duplicates 1 (0.46%)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 167 distinct outputs (87.43%)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: RAM used: 124.28 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Shaders Compiled: 42
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Jobs assigned 42, completed 42 (100%)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Average time worker was idle: 188.44 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 12.33 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Job life time (pending + execution): average 1.64 s, max 12.40
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Shader code size: average 8.452 KiB, min 2.785 KiB, max 15.57 KiB
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.52 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Total thread time: 25.704 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Total thread preprocess time: 3.665 s
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Percentage time preprocessing: 14.26%
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Effective parallelization: 0.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.19 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.66 sec, max 0.72 sec, min 0.58 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.87% of total time (compiled    6 times, average 1.19 sec, max 1.29 sec, min 1.12 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.03% of total time (compiled    9 times, average 0.66 sec, max 0.72 sec, min 0.58 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.77% of total time (compiled   10 times, average 0.46 sec, max 0.49 sec, min 0.41 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.99% of total time (compiled    7 times, average 0.48 sec, max 0.51 sec, min 0.43 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.73% of total time (compiled    7 times, average 0.43 sec, max 0.49 sec, min 0.39 sec)
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-17.24.47:160][485]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: Materials Translated:    154
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: Material Translation Only: 0.06 s (55%)
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: Material Cache Hits: 45 (29%)
+[2025.12.08-17.24.47:161][485]LogShaderCompilers: Display: ================================================
