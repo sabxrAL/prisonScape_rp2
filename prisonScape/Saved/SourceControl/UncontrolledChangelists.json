@@ -230,6 +230,7 @@
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_BasePickUpItem.uasset",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_BaseHeldItem.uasset",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Input/Actions/IA_PickUp.uasset",
+				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/Tasks/AI_Crouch.uasset",
 				"C:/Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset",
