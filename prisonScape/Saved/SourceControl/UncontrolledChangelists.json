@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/valky/Desktop/prisonScape_rp2/prisonScape/Content/Policia_Mesh/default.uasset",
+				"C:/Users/valky/Desktop/prisonScape_rp2/prisonScape/Content/Policia_Mesh/Standard_Walk.uasset",
+				"C:/Users/valky/Desktop/prisonScape_rp2/prisonScape/Content/Policia_Mesh/Standard_Walk_Anim.uasset",
+				"C:/Users/valky/Desktop/prisonScape_rp2/prisonScape/Content/Policia_Mesh/Standard_Walk_PhysicsAsset.uasset",
+				"C:/Users/valky/Desktop/prisonScape_rp2/prisonScape/Content/Policia_Mesh/Standard_Walk_Skeleton.uasset",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Cube.uasset",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/CarcelMapa_Modelado.uasset",
 				"C:/Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap",
