@@ -3070,3 +3070,386 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.08-17.40.20:363][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.08-17.40.20:363][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.08-17.40.20:363][323]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-17.42.18:500][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3588.639893
+[2025.12.08-17.42.19:499][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.42.19:499][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3589.306152, Update Interval: 317.807556
+[2025.12.08-17.44.14:869][225]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.08-17.48.37:047][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3967.183350
+[2025.12.08-17.48.38:047][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.48.38:047][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3967.849854, Update Interval: 331.178314
+[2025.12.08-17.54.40:577][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4330.704102
+[2025.12.08-17.54.41:579][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.54.41:579][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4331.371094, Update Interval: 347.881714
+[2025.12.08-18.01.04:624][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4714.757812
+[2025.12.08-18.01.05:620][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.01.05:620][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4715.417480, Update Interval: 313.856018
+[2025.12.08-18.06.13:247][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER
+[2025.12.08-18.06.13:247][901]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.08-18.07.04:198][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5074.316895
+[2025.12.08-18.07.05:199][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.07.05:199][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5074.984375, Update Interval: 343.726929
+[2025.12.08-18.07.22:953][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.12.08-18.07.22:954][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Carcel_FPS' took 0.045
+[2025.12.08-18.07.22:954][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.07.23:087][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.07.23:087][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.07.23:114][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_CHARACTER_Auto2
+[2025.12.08-18.07.23:115][ 76]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER_Auto238A2D7A44A746A369227F5BC49C29B48.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_CHARACTER_Auto2.uasset'
+[2025.12.08-18.07.23:117][ 76]LogFileHelpers: Auto-saving content packages took 0.162
+[2025.12.08-18.11.26:239][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.12.08-18.11.26:875][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.11.26:903][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.11.26:987][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.11.26:987][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.11.27:014][561]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.11.27:014][561]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER97EE9CC440C5550E9F9560BDFA1DA108.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.11.27:025][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.171 ms (total: 4.46 sec)
+[2025.12.08-18.11.27:057][561]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.11.27:057][561]LogContentValidation: Enabled validators:
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.11.27:057][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.11.27:057][561]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.12.09:957][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.12.08-18.12.10:897][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.12.10:932][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.12.11:010][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.12.11:010][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.12.11:038][827]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.12.11:039][827]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER78BD40E641D479463DC78CBB40C2F9B5.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.12.11:048][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.142 ms (total: 4.61 sec)
+[2025.12.08-18.12.11:090][827]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.12.11:090][827]LogContentValidation: Enabled validators:
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.12.11:090][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.12.11:090][827]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.13.00:617][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.12.08-18.13.01:198][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.13.01:229][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.13.01:313][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.13.01:313][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.13.01:342][471]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.13.01:343][471]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER110A9AC44F0C64227601A0B61E1F891D.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.13.01:353][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.565 ms (total: 4.77 sec)
+[2025.12.08-18.13.01:381][471]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.13.01:381][471]LogContentValidation: Enabled validators:
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.13.01:381][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.13.01:381][471]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.13.30:639][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5460.531738
+[2025.12.08-18.13.31:638][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.13.31:638][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5461.198242, Update Interval: 354.422424
+[2025.12.08-18.15.10:683][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.08-18.15.11:533][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.15.11:565][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.15.11:643][250]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.15.11:643][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.15.11:673][250]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.15.11:673][250]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER13A2000343603EF2F1C40A9F4D2D4B03.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.15.11:682][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.851 ms (total: 4.92 sec)
+[2025.12.08-18.15.11:710][250]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.15.11:710][250]LogContentValidation: Enabled validators:
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.15.11:710][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.15.11:710][250]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.16.36:889][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.12.08-18.16.37:794][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.16.37:828][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.16.37:913][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.16.37:913][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.16.37:944][311]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.16.37:944][311]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER41C32BA24A98D006C28B9788130C0CFE.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.16.37:954][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.547 ms (total: 5.08 sec)
+[2025.12.08-18.16.37:996][311]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.16.37:996][311]LogContentValidation: Enabled validators:
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.16.37:996][311]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.16.37:996][311]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.17.10:208][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.12.08-18.17.10:806][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.17.10:836][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.17.10:911][121]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.17.10:911][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.17.10:941][121]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.17.10:942][121]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER13A1ED454C26EA468A72558C4E75CD93.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.17.10:951][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.069 ms (total: 5.22 sec)
+[2025.12.08-18.17.10:988][121]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.17.10:988][121]LogContentValidation: Enabled validators:
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.17.10:988][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.17.10:988][121]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.17.50:494][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.08-18.17.51:397][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.17.51:427][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.17.51:511][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.17.51:511][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.17.51:541][581]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.17.51:542][581]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERFDA9526B4D760C00BA1699ABB2A6B769.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.17.51:552][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.448 ms (total: 5.37 sec)
+[2025.12.08-18.17.51:586][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.17.51:586][581]LogContentValidation: Enabled validators:
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.17.51:586][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.17.51:586][581]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.18.13:415][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.12.08-18.18.14:093][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.18.14:127][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.18.14:211][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.18.14:212][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.18.14:242][615]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.18.14:243][615]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER530A6F7449222EE2773F99B85411F8B2.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.18.14:252][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.580 ms (total: 5.53 sec)
+[2025.12.08-18.18.14:293][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.18.14:293][615]LogContentValidation: Enabled validators:
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.18.14:293][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.18.14:293][615]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.18.48:277][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.12.08-18.18.48:893][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.18.48:926][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.18.49:011][900]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.18.49:011][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.18.49:041][900]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.18.49:041][900]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERA4060A244D8C655DA1F5C18582DF9FCC.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.18.49:051][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.633 ms (total: 5.69 sec)
+[2025.12.08-18.18.49:079][900]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.18.49:079][900]LogContentValidation: Enabled validators:
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.18.49:079][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.18.49:079][900]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.20.20:897][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5870.674805
+[2025.12.08-18.20.21:064][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.20.21:064][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5870.833008, Update Interval: 321.460602
+[2025.12.08-18.20.45:232][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.08-18.20.45:233][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Carcel_FPS' took 0.028
+[2025.12.08-18.20.45:234][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.20.45:441][889]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.20.45:441][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.20.45:472][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_CHARACTER_Auto3
+[2025.12.08-18.20.45:473][889]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER_Auto30E2C2B064B82209D5F82A39CF1DD73C3.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_CHARACTER_Auto3.uasset'
+[2025.12.08-18.20.45:474][889]LogFileHelpers: Auto-saving content packages took 0.240
+[2025.12.08-18.22.04:153][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.12.08-18.22.04:875][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.22.04:907][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.22.04:985][699]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.22.04:985][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.22.05:017][699]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.22.05:018][699]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERA17D3AAE4489418BC669C382A3BF6B30.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.22.05:027][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.510 ms (total: 5.84 sec)
+[2025.12.08-18.22.05:060][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.22.05:060][699]LogContentValidation: Enabled validators:
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.22.05:060][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.22.05:060][699]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.22.45:740][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.12.08-18.22.46:837][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.22.46:874][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.22.46:959][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.22.46:959][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.22.46:993][128]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.22.46:994][128]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERCA45B1904D91447D9C0171B010076314.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.22.47:003][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.309 ms (total: 6.01 sec)
+[2025.12.08-18.22.47:038][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.22.47:038][128]LogContentValidation: Enabled validators:
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.22.47:038][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.22.47:038][128]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.24.11:256][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.12.08-18.24.12:235][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.24.12:269][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2025.12.08-18.24.12:347][121]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2025.12.08-18.24.12:347][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2025.12.08-18.24.12:381][121]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2025.12.08-18.24.12:382][121]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERED34B83740675A316DEA7AAF097AAE93.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2025.12.08-18.24.12:390][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.205 ms (total: 6.17 sec)
+[2025.12.08-18.24.12:421][121]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.24.12:421][121]LogContentValidation: Enabled validators:
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.24.12:421][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.24.12:421][121]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2025.12.08-18.24.20:576][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.24.20:587][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-18.24.20:588][889]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-18.24.20:619][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031971s)
+[2025.12.08-18.24.20:621][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.032015s)
+[2025.12.08-18.24.20:646][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.12.08-18.24.20:650][889]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2025.12.08-18.24.20:650][889]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2025.12.08-18.24.20:652][889]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.24.20:652][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.24.20:652][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.24.20:652][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.24.20:652][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.24.20:652][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.24.20:656][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.24.20:711][889]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2025.12.08-18.24.20:711][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.24.20:711][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.24.20:711][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.24.20:711][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.12.08-18.24.20:711][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.12.08-18.24.20:714][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.12.08-18.24.20:714][889]LogInit: FAudioDevice initialized with ID 19.
+[2025.12.08-18.24.20:714][889]LogAudio: Display: Audio Device (ID: 19) registered with world 'Carcel_FPS'.
+[2025.12.08-18.24.20:714][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.12.08-18.24.20:714][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.08-18.24.20:718][889]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.08-18.24.20:729][889]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2025.12.08-19.24.20
+[2025.12.08-18.24.20:730][889]LogWorld: Bringing up level for play took: 0.011852
+[2025.12.08-18.24.20:732][889]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.12.08-18.24.20:738][889]PIE: Server logged in
+[2025.12.08-18.24.20:739][889]PIE: Play in editor total start time 0.153 seconds.
+[2025.12.08-18.24.41:707][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.24.41:707][833]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-18.24.41:707][833]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.24.41:708][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.24.41:713][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.24.41:719][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.24.41:742][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-18.24.41:744][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.08-18.24.41:744][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.12.08-18.24.41:745][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.12.08-18.24.41:750][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.24.41:756][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.12.08-18.24.41:809][834]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.12.08-18.25.01:025][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-18.25.01:025][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.08-18.25.01:027][529]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_201
+[2025.12.08-18.25.01:027][529]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_201
+[2025.12.08-18.25.17:543][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.25.17:642][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.12.08-18.25.17:744][821]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-18.25.17:745][821]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS0137F0314ECD6EA8D76919ACF8623B43.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-18.25.17:761][821]LogFileHelpers: Saving map 'Carcel_FPS' took 0.172
+[2025.12.08-18.25.17:770][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.970 ms (total: 6.39 sec)
+[2025.12.08-18.25.17:811][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.25.17:811][821]LogContentValidation: Enabled validators:
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.25.17:811][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.25.17:811][821]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-18.26.09:787][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.26.09:894][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.08-18.26.10:007][336]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2025.12.08-18.26.10:008][336]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSB2F5E2CA4BA9A10B2C6D0CAA37325887.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2025.12.08-18.26.10:027][336]LogFileHelpers: Saving map 'Carcel_FPS' took 0.187
+[2025.12.08-18.26.10:038][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.779 ms (total: 6.65 sec)
+[2025.12.08-18.26.10:075][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.26.10:075][336]LogContentValidation: Enabled validators:
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.26.10:075][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.26.10:076][336]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2025.12.08-18.26.14:186][730]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.26.14:196][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-18.26.14:196][730]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-18.26.14:229][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032321s)
+[2025.12.08-18.26.14:229][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.032362s)
+[2025.12.08-18.26.14:253][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.12.08-18.26.14:256][730]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2025.12.08-18.26.14:257][730]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2025.12.08-18.26.14:258][730]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.26.14:258][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.26.14:258][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.26.14:258][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.26.14:258][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.26.14:258][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.26.14:261][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.26.14:314][730]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2025.12.08-18.26.14:314][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.26.14:314][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.26.14:314][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.26.14:314][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.12.08-18.26.14:314][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.12.08-18.26.14:316][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.12.08-18.26.14:316][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.12.08-18.26.14:316][730]LogInit: FAudioDevice initialized with ID 20.
+[2025.12.08-18.26.14:316][730]LogAudio: Display: Audio Device (ID: 20) registered with world 'Carcel_FPS'.
+[2025.12.08-18.26.14:316][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.08-18.26.14:320][730]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.08-18.26.14:331][730]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2025.12.08-19.26.14
+[2025.12.08-18.26.14:332][730]LogWorld: Bringing up level for play took: 0.011536
+[2025.12.08-18.26.14:334][730]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.12.08-18.26.14:340][730]PIE: Server logged in
+[2025.12.08-18.26.14:340][730]PIE: Play in editor total start time 0.146 seconds.
+[2025.12.08-18.26.37:032][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6246.787598
+[2025.12.08-18.26.37:346][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.26.37:346][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6247.092285, Update Interval: 337.012238
+[2025.12.08-18.27.06:797][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.27.06:797][563]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2025.12.08-18.27.06:797][563]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.27.06:800][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.27.06:804][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.27.06:810][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.27.06:829][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.27.06:831][563]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.12.08-18.27.06:831][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.12.08-18.27.06:834][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.12.08-18.27.06:844][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.12.08-18.27.06:927][564]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.12.08-18.27.13:027][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
