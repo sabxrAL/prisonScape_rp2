@@ -3294,3 +3294,652 @@ Sampler Limit: 32
 [2026.03.02-16.15.07:535][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7906.674805
 [2026.03.02-16.15.08:538][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.02-16.15.08:538][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7907.343750, Update Interval: 355.900146
+[2026.03.02-16.18.23:187][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-16.18.23:205][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-16.18.23:205][244]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-16.18.23:240][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034749s)
+[2026.03.02-16.18.23:240][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.034796s)
+[2026.03.02-16.18.23:265][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.02-16.18.23:267][244]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-16.18.23:268][244]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2026.03.02-16.18.23:269][244]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-16.18.23:269][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-16.18.23:269][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-16.18.23:269][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-16.18.23:269][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-16.18.23:269][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-16.18.23:271][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-16.18.23:328][244]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-16.18.23:328][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-16.18.23:328][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-16.18.23:328][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-16.18.23:328][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.03.02-16.18.23:328][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.03.02-16.18.23:331][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.03.02-16.18.23:331][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.03.02-16.18.23:331][244]LogInit: FAudioDevice initialized with ID 15.
+[2026.03.02-16.18.23:331][244]LogAudio: Display: Audio Device (ID: 15) registered with world 'Carcel_FPS'.
+[2026.03.02-16.18.23:331][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.02-16.18.23:333][244]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-16.18.23:350][244]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-17.18.23
+[2026.03.02-16.18.23:350][244]LogWorld: Bringing up level for play took: 0.016381
+[2026.03.02-16.18.23:353][244]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.03.02-16.18.23:358][244]PIE: Server logged in
+[2026.03.02-16.18.23:360][244]PIE: Play in editor total start time 0.162 seconds.
+[2026.03.02-16.18.45:121][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-16.18.45:121][662]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-16.18.45:122][662]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-16.18.45:125][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-16.18.45:131][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-16.18.45:137][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-16.18.45:161][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-16.18.45:162][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.02-16.18.45:162][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.02-16.18.45:165][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.02-16.18.45:177][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.03.02-16.18.45:231][663]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.03.02-16.21.23:616][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-16.21.23:689][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2026.03.02-16.21.23:689][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2026.03.02-16.21.23:689][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset" SILENT=true
+[2026.03.02-16.21.23:692][227]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2026.03.02-16.21.23:694][227]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BT_AI62BB09174FEF3004083D7EAFFCCEB534.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset'
+[2026.03.02-16.21.23:703][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.751 ms (total: 11.1 sec)
+[2026.03.02-16.21.23:773][227]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-16.21.23:773][227]LogContentValidation: Enabled validators:
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-16.21.23:773][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-16.21.23:773][227]AssetCheck: /Game/AI/BT_AI Validating asset
+[2026.03.02-16.21.31:844][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.03.02-16.21.34:112][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8294.143555
+[2026.03.02-16.21.34:270][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.21.34:270][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8294.295898, Update Interval: 321.453278
+[2026.03.02-16.27.37:067][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8661.809570
+[2026.03.02-16.27.37:226][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.27.37:226][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8661.962891, Update Interval: 324.020508
+[2026.03.02-16.33.33:021][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9022.087891
+[2026.03.02-16.33.33:347][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.33.33:347][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9022.411133, Update Interval: 323.617676
+[2026.03.02-16.39.40:286][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9394.059570
+[2026.03.02-16.39.40:436][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.39.40:436][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9394.203125, Update Interval: 335.406342
+[2026.03.02-16.46.14:474][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9793.683594
+[2026.03.02-16.46.14:617][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.46.14:617][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9793.817383, Update Interval: 344.347656
+[2026.03.02-16.52.46:839][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10191.490234
+[2026.03.02-16.52.47:006][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.52.47:006][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10191.650391, Update Interval: 306.123230
+[2026.03.02-16.58.41:987][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10551.041992
+[2026.03.02-16.58.42:121][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-16.58.42:121][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10551.167969, Update Interval: 356.762604
+[2026.03.02-17.05.01:025][224]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-17.05.22:659][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10956.813477
+[2026.03.02-17.05.22:810][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.05.22:810][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10956.957031, Update Interval: 308.849762
+[2026.03.02-17.11.20:704][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11319.360352
+[2026.03.02-17.11.20:853][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.11.20:853][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11319.502930, Update Interval: 306.277039
+[2026.03.02-17.17.05:696][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11668.988281
+[2026.03.02-17.17.05:838][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.17.05:838][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11669.125000, Update Interval: 314.090393
+[2026.03.02-17.23.10:039][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12038.248047
+[2026.03.02-17.23.10:199][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.23.10:199][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12038.398438, Update Interval: 303.409515
+[2026.03.02-17.28.51:540][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12382.534180
+[2026.03.02-17.28.52:540][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.28.52:540][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12383.203125, Update Interval: 320.457153
+[2026.03.02-17.34.59:916][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12750.780273
+[2026.03.02-17.35.00:916][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.35.00:916][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12751.448242, Update Interval: 311.393158
+[2026.03.02-17.40.59:954][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13110.600586
+[2026.03.02-17.41.00:954][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.41.00:954][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13111.266602, Update Interval: 318.217712
+[2026.03.02-17.47.04:001][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13474.388672
+[2026.03.02-17.47.05:001][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.47.05:001][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13475.054688, Update Interval: 312.975250
+[2026.03.02-17.53.17:710][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13847.879883
+[2026.03.02-17.53.18:710][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.53.18:710][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13848.545898, Update Interval: 305.432892
+[2026.03.02-17.59.04:413][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14194.381836
+[2026.03.02-17.59.05:413][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-17.59.05:413][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14195.047852, Update Interval: 350.765717
+[2026.03.02-18.01.04:762][619]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 696...b7a
+[2026.03.02-18.01.04:762][619]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.92 RefreshExpires: 1.547e+07
+[2026.03.02-18.01.05:762][622]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 696...b7a Access[Expires: 2026.03.02-20.01.02 Remaining: 7200.61] Refresh[Expires: 2026-08-28T18:22:39.412Z Remaining: 15466897.41] State: Valid
+[2026.03.02-18.05.01:026][328]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-18.05.40:800][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14590.520508
+[2026.03.02-18.05.41:800][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.05.41:800][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14591.186523, Update Interval: 305.663635
+[2026.03.02-18.11.20:508][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14930.008789
+[2026.03.02-18.11.21:509][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.11.21:509][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14930.675781, Update Interval: 310.739471
+[2026.03.02-18.17.25:225][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15294.474609
+[2026.03.02-18.17.26:226][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.17.26:226][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15295.142578, Update Interval: 332.242188
+[2026.03.02-18.23.33:276][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15662.291016
+[2026.03.02-18.23.34:277][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.23.34:277][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15662.958008, Update Interval: 326.208679
+[2026.03.02-18.29.53:655][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16042.419922
+[2026.03.02-18.29.54:655][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.29.54:655][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16043.085938, Update Interval: 318.406311
+[2026.03.02-18.35.53:705][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16402.271484
+[2026.03.02-18.35.54:707][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.35.54:707][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16402.939453, Update Interval: 328.449951
+[2026.03.02-18.42.13:088][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16782.296875
+[2026.03.02-18.42.14:087][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.42.14:087][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16782.964844, Update Interval: 317.373566
+[2026.03.02-18.48.12:467][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17142.279297
+[2026.03.02-18.48.13:468][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.48.13:468][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17142.947266, Update Interval: 349.963684
+[2026.03.02-18.54.45:508][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17536.005859
+[2026.03.02-18.54.46:508][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-18.54.46:508][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17536.673828, Update Interval: 323.786133
+[2026.03.02-19.00.55:224][389]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17906.312500
+[2026.03.02-19.00.56:223][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.00.56:224][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17906.980469, Update Interval: 302.056335
+[2026.03.02-19.05.01:026][127]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-19.06.42:606][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18254.279297
+[2026.03.02-19.06.43:605][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.06.43:605][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18254.947266, Update Interval: 315.033417
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000: request has been successfully processed. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 502, content length: 6403, actual payload size: 6403, elapsed: 0.07s
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Date: Mon, 02 Mar 2026 19:08:47 GMT
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Content-Type: text/html; charset=UTF-8
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Content-Length: 6403
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Connection: keep-alive
+[2026.03.02-19.08.50:624][815]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Referrer-Policy: same-origin
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Expires: Thu, 01 Jan 1970 00:00:01 GMT
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Proxy-Status: Cloudflare-Proxy;error=http_response_incomplete
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header Cf-Ray: 9d62b12e8af60469-MAD
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogHttp: 0000097D3B746000 Response Header X-Frame-Options: SAMEORIGIN
+[2026.03.02-19.08.50:624][816]LogEOSSDK: Warning: LogEOS: Error response received from backend. Response is not JSON. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>], HttpStatus=[502], CorrId=[]
+[2026.03.02-19.08.50:957][816]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_UnrecognizedResponse UserId: 696...b7a
+[2026.03.02-19.12.55:992][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18628.296875
+[2026.03.02-19.12.56:991][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.12.56:991][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18628.964844, Update Interval: 301.693787
+[2026.03.02-19.18.54:372][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18987.296875
+[2026.03.02-19.18.55:371][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.18.55:372][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18987.964844, Update Interval: 327.845703
+[2026.03.02-19.25.09:411][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19363.003906
+[2026.03.02-19.25.10:411][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.25.10:411][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19363.671875, Update Interval: 355.804932
+[2026.03.02-19.31.47:458][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19761.712891
+[2026.03.02-19.31.48:459][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.31.48:459][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19762.380859, Update Interval: 332.020630
+[2026.03.02-19.38.15:514][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20150.414062
+[2026.03.02-19.38.16:513][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.38.16:514][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20151.082031, Update Interval: 319.904175
+[2026.03.02-19.44.08:898][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20504.349609
+[2026.03.02-19.44.09:897][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.44.09:897][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20505.015625, Update Interval: 353.193756
+[2026.03.02-19.50.36:943][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20893.044922
+[2026.03.02-19.50.37:943][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.50.37:943][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20893.712891, Update Interval: 357.976624
+[2026.03.02-19.57.15:321][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21292.091797
+[2026.03.02-19.57.16:322][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-19.57.16:322][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21292.759766, Update Interval: 306.491272
+[2026.03.02-19.59.26:003][920]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 696...b7a
+[2026.03.02-19.59.26:005][920]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.95 RefreshExpires: 1.546e+07
+[2026.03.02-19.59.27:005][923]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 696...b7a Access[Expires: 2026.03.02-21.59.23 Remaining: 7200.86] Refresh[Expires: 2026-08-29T19:59:23.867Z Remaining: 15552000.87] State: Valid
+[2026.03.02-20.03.11:373][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21648.718750
+[2026.03.02-20.03.12:372][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.03.12:372][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21649.386719, Update Interval: 340.689117
+[2026.03.02-20.04.13:136][318]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-20.04.13:179][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-20.04.13:181][318]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.04.13:243][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061720s)
+[2026.03.02-20.04.13:243][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.062326s)
+[2026.03.02-20.04.13:343][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2026.03.02-20.04.13:349][318]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-20.04.13:352][318]LogPlayLevel: PIE: World Init took: (0.003305s)
+[2026.03.02-20.04.13:354][318]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-20.04.13:354][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-20.04.13:354][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-20.04.13:356][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-20.04.13:356][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-20.04.13:356][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-20.04.13:360][318]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-20.04.13:418][318]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-20.04.13:422][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-20.04.13:422][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-20.04.13:422][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-20.04.13:424][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.03.02-20.04.13:424][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.03.02-20.04.13:427][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.03.02-20.04.13:427][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.03.02-20.04.13:427][318]LogInit: FAudioDevice initialized with ID 16.
+[2026.03.02-20.04.13:427][318]LogAudio: Display: Audio Device (ID: 16) registered with world 'Carcel_FPS'.
+[2026.03.02-20.04.13:427][318]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.02-20.04.13:441][318]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-20.04.13:478][318]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-21.04.13
+[2026.03.02-20.04.13:479][318]LogWorld: Bringing up level for play took: 0.038086
+[2026.03.02-20.04.13:483][318]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.03.02-20.04.13:495][318]PIE: Server logged in
+[2026.03.02-20.04.13:497][318]PIE: Play in editor total start time 0.342 seconds.
+[2026.03.02-20.04.29:540][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.04.29:540][310]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.04.29:542][310]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-20.04.29:545][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.04.29:558][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-20.04.29:564][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.04.29:589][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.04.29:590][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.02-20.04.29:590][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.03.02-20.04.29:593][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.03.02-20.04.29:606][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.03.02-20.04.29:688][311]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.03.02-20.04.31:327][410]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-20.04.31:352][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-20.04.31:352][410]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.04.31:392][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039540s)
+[2026.03.02-20.04.31:392][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.039577s)
+[2026.03.02-20.04.31:417][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.03.02-20.04.31:420][410]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-20.04.31:421][410]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2026.03.02-20.04.31:422][410]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-20.04.31:423][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-20.04.31:423][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-20.04.31:423][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-20.04.31:423][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-20.04.31:423][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-20.04.31:425][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-20.04.31:482][410]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-20.04.31:482][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-20.04.31:482][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-20.04.31:482][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-20.04.31:484][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.03.02-20.04.31:484][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.03.02-20.04.31:487][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.03.02-20.04.31:487][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.03.02-20.04.31:487][410]LogInit: FAudioDevice initialized with ID 17.
+[2026.03.02-20.04.31:487][410]LogAudio: Display: Audio Device (ID: 17) registered with world 'Carcel_FPS'.
+[2026.03.02-20.04.31:487][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.02-20.04.31:490][410]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-20.04.31:517][410]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-21.04.31
+[2026.03.02-20.04.31:518][410]LogWorld: Bringing up level for play took: 0.027634
+[2026.03.02-20.04.31:520][410]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.03.02-20.04.31:529][410]PIE: Server logged in
+[2026.03.02-20.04.31:530][410]PIE: Play in editor total start time 0.189 seconds.
+[2026.03.02-20.04.48:799][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.04.48:799][508]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.04.48:799][508]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-20.04.48:802][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.04.48:809][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-20.04.48:816][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.04.48:840][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.04.48:841][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.02-20.04.48:841][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.03.02-20.04.48:847][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.03.02-20.04.48:860][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.03.02-20.04.48:935][509]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.03.02-20.04.52:781][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-20.04.52:801][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-20.04.52:829][736]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.04.52:868][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039292s)
+[2026.03.02-20.04.52:868][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.039333s)
+[2026.03.02-20.04.52:893][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.02-20.04.52:895][736]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-20.04.52:897][736]LogPlayLevel: PIE: World Init took: (0.002053s)
+[2026.03.02-20.04.52:898][736]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-20.04.52:898][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-20.04.52:898][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-20.04.52:898][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-20.04.52:898][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-20.04.52:898][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-20.04.52:900][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-20.04.52:958][736]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-20.04.52:958][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-20.04.52:958][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-20.04.52:958][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-20.04.52:958][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.03.02-20.04.52:959][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.03.02-20.04.52:961][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.03.02-20.04.52:961][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.03.02-20.04.52:961][736]LogInit: FAudioDevice initialized with ID 18.
+[2026.03.02-20.04.52:961][736]LogAudio: Display: Audio Device (ID: 18) registered with world 'Carcel_FPS'.
+[2026.03.02-20.04.52:961][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.02-20.04.52:964][736]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-20.04.52:987][736]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-21.04.52
+[2026.03.02-20.04.52:987][736]LogWorld: Bringing up level for play took: 0.022178
+[2026.03.02-20.04.52:989][736]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.03.02-20.04.52:997][736]PIE: Server logged in
+[2026.03.02-20.04.52:999][736]PIE: Play in editor total start time 0.208 seconds.
+[2026.03.02-20.05.01:027][241]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-20.06.13:442][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.06.13:442][708]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.06.13:443][708]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-20.06.13:446][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.06.13:452][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-20.06.13:460][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.06.13:483][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.06.13:484][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.02-20.06.13:485][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.03.02-20.06.13:486][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.03.02-20.06.13:501][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.02-20.06.13:568][709]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.03.02-20.06.15:112][795]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/DecalMaterials/Decal_SecurityCamera.Decal_SecurityCamera
+[2026.03.02-20.06.15:119][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.02-20.06.15:844][795]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.02-20.06.15:844][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.02-20.06.15:844][795]MaterialEditorStats: Shader Count: 0
+[2026.03.02-20.06.15:844][795]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.02-20.08.23:711][830]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-20.08.23:731][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-20.08.23:732][830]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.08.23:768][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035923s)
+[2026.03.02-20.08.23:768][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.035965s)
+[2026.03.02-20.08.23:839][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.02-20.08.23:843][830]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-20.08.23:845][830]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2026.03.02-20.08.23:846][830]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-20.08.23:846][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-20.08.23:846][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-20.08.23:846][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-20.08.23:846][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-20.08.23:846][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-20.08.23:849][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-20.08.23:900][830]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-20.08.23:900][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-20.08.23:900][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-20.08.23:900][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-20.08.23:902][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.03.02-20.08.23:902][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.03.02-20.08.23:905][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.03.02-20.08.23:905][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.03.02-20.08.23:905][830]LogInit: FAudioDevice initialized with ID 19.
+[2026.03.02-20.08.23:905][830]LogAudio: Display: Audio Device (ID: 19) registered with world 'Carcel_FPS'.
+[2026.03.02-20.08.23:905][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.02-20.08.23:908][830]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-20.08.23:925][830]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-21.08.23
+[2026.03.02-20.08.23:925][830]LogWorld: Bringing up level for play took: 0.017232
+[2026.03.02-20.08.23:928][830]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.03.02-20.08.23:935][830]PIE: Server logged in
+[2026.03.02-20.08.23:935][830]PIE: Play in editor total start time 0.212 seconds.
+[2026.03.02-20.08.35:358][546]LogBlueprintUserMessages: [BP_BASEItem_C_1] Interact!
+[2026.03.02-20.08.56:788][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.08.56:788][804]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-20.08.56:788][804]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-20.08.56:791][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.08.56:813][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-20.08.56:818][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-20.08.56:843][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.02-20.08.56:843][804]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.02-20.08.56:843][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.03.02-20.08.56:846][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.03.02-20.08.56:851][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-20.08.56:858][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.02-20.08.56:922][805]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.03.02-20.09.22:932][376]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22018.000000
+[2026.03.02-20.09.23:099][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.09.23:099][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22018.150391, Update Interval: 345.155182
+[2026.03.02-20.15.46:811][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22402.410156
+[2026.03.02-20.15.47:809][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.15.47:809][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22403.078125, Update Interval: 333.311554
+[2026.03.02-20.21.56:522][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22772.791016
+[2026.03.02-20.21.57:521][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.21.57:521][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22773.458984, Update Interval: 351.781982
+[2026.03.02-20.28.22:906][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23159.794922
+[2026.03.02-20.28.23:903][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.28.23:903][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23160.458984, Update Interval: 336.810822
+[2026.03.02-20.34.39:615][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23537.113281
+[2026.03.02-20.34.40:614][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.34.40:615][506]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23537.781250, Update Interval: 311.563477
+[2026.03.02-20.40.39:323][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23897.398438
+[2026.03.02-20.40.40:324][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.40.40:324][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23898.066406, Update Interval: 351.910156
+[2026.03.02-20.47.20:041][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24298.757812
+[2026.03.02-20.47.21:041][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.47.21:041][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24299.425781, Update Interval: 322.077698
+[2026.03.02-20.53.23:749][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24663.093750
+[2026.03.02-20.53.24:748][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.53.24:748][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24663.761719, Update Interval: 347.942139
+[2026.03.02-20.59.51:841][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25051.859375
+[2026.03.02-20.59.52:843][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.59.52:843][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25052.527344, Update Interval: 327.675415
+[2026.03.02-21.05.01:027][967]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-21.06.18:893][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25439.529297
+[2026.03.02-21.06.19:894][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.06.19:894][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25440.197266, Update Interval: 307.425140
+[2026.03.02-21.12.26:272][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25807.527344
+[2026.03.02-21.12.27:272][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.12.27:272][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25808.195312, Update Interval: 321.087067
+[2026.03.02-21.18.45:981][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26187.898438
+[2026.03.02-21.18.46:981][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.18.46:981][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26188.566406, Update Interval: 315.460052
+[2026.03.02-21.24.59:704][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26562.251953
+[2026.03.02-21.25.00:703][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.25.00:703][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26562.919922, Update Interval: 322.947479
+[2026.03.02-21.31.23:432][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26946.644531
+[2026.03.02-21.31.24:431][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.31.24:431][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26947.312500, Update Interval: 330.484314
+[2026.03.02-21.37.25:142][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27308.988281
+[2026.03.02-21.37.26:142][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.37.26:142][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27309.656250, Update Interval: 313.636292
+[2026.03.02-21.42.57:245][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-21.42.57:294][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-21.42.57:296][987]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-21.42.57:356][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059146s)
+[2026.03.02-21.42.57:356][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.059749s)
+[2026.03.02-21.42.57:457][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2026.03.02-21.42.57:468][987]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.02-21.42.57:471][987]LogPlayLevel: PIE: World Init took: (0.003379s)
+[2026.03.02-21.42.57:472][987]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-21.42.57:472][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-21.42.57:472][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-21.42.57:472][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-21.42.57:472][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-21.42.57:472][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-21.42.57:476][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-21.42.57:535][987]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.02-21.42.57:538][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-21.42.57:538][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-21.42.57:538][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-21.42.57:541][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.03.02-21.42.57:541][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.03.02-21.42.57:544][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.03.02-21.42.57:544][987]LogInit: FAudioDevice initialized with ID 20.
+[2026.03.02-21.42.57:544][987]LogAudio: Display: Audio Device (ID: 20) registered with world 'Carcel_FPS'.
+[2026.03.02-21.42.57:544][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.03.02-21.42.57:544][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.02-21.42.57:556][987]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.02-21.42.57:592][987]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.02-22.42.57
+[2026.03.02-21.42.57:593][987]LogWorld: Bringing up level for play took: 0.036145
+[2026.03.02-21.42.57:596][987]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.03.02-21.42.57:608][987]PIE: Server logged in
+[2026.03.02-21.42.57:610][987]PIE: Play in editor total start time 0.342 seconds.
+[2026.03.02-21.43.00:952][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-21.43.00:952][193]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.02-21.43.00:952][193]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.00:955][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.00:972][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-21.43.00:977][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.01:004][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-21.43.01:007][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.02-21.43.01:007][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.03.02-21.43.01:010][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.03.02-21.43.01:025][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.03.02-21.43.01:167][194]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.03.02-21.43.02:717][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.03.02-21.43.03:770][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.02-21.43.03:847][338]LogStall: Shutdown...
+[2026.03.02-21.43.03:848][338]LogStall: Shutdown complete.
+[2026.03.02-21.43.03:988][338]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.03:988][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.04:164][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-21.43.04:164][338]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.04:164][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.04:317][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-21.43.04:317][338]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.04:317][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.04:522][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-21.43.04:522][338]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.04:522][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.04:653][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.02-21.43.04:653][338]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.04:653][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.04:855][338]LogSlate: Window 'prisonScape - Unreal Editor' being destroyed
+[2026.03.02-21.43.05:148][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.03.02-21.43.05:181][338]Cmd: QUIT_EDITOR
+[2026.03.02-21.43.05:181][339]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.02-21.43.05:191][339]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.02-21.43.05:191][339]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.02-21.43.05:191][339]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.02-21.43.05:200][339]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:200][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:215][339]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.02-21.43.05:218][339]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.02-21.43.05:224][339]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:224][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:227][339]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:227][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:231][339]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:231][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:234][339]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:234][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:237][339]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:237][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:241][339]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:241][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:244][339]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:244][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:247][339]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:247][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:250][339]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:250][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:252][339]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:252][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:254][339]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:255][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:258][339]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:258][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:261][339]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:261][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:263][339]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:264][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:266][339]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:266][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:269][339]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:269][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:272][339]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:272][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:275][339]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:275][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:278][339]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:278][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:279][339]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:281][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:282][339]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:282][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:285][339]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:285][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:289][339]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:289][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:291][339]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:291][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:294][339]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:294][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:297][339]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-21.43.05:297][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-21.43.05:301][339]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.02-21.43.05:310][339]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.02-21.43.05:310][339]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.02-21.43.05:310][339]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.02-21.43.05:667][339]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.02-21.43.05:667][339]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.02-21.43.05:667][339]LogAudio: Display: Audio Device unregistered from world 'Carcel_FPS'.
+[2026.03.02-21.43.05:667][339]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.02-21.43.05:667][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.02-21.43.05:671][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.02-21.43.05:684][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.02-21.43.05:684][339]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.02-21.43.05:685][339]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.02-21.43.05:690][339]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.02-21.43.05:690][339]LogExit: Preparing to exit.
+[2026.03.02-21.43.05:739][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.03.02-21.43.05:742][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:742][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:744][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:745][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:746][339]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.05:746][339]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.02-21.43.06:277][339]LogEditorDataStorage: Deinitializing
+[2026.03.02-21.43.06:560][339]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.02-21.43.06:599][339]LogExit: Editor shut down
+[2026.03.02-21.43.06:605][339]LogExit: Transaction tracking system shut down
+[2026.03.02-21.43.07:114][339]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 14.
+[2026.03.02-21.43.07:158][339]LogExit: Object subsystem successfully closed.
+[2026.03.02-21.43.07:173][339]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.02-21.43.07:386][339]LogMemoryProfiler: Shutdown
+[2026.03.02-21.43.07:386][339]LogNetworkingProfiler: Shutdown
+[2026.03.02-21.43.07:386][339]LoadingProfiler: Shutdown
+[2026.03.02-21.43.07:386][339]LogTimingProfiler: Shutdown
+[2026.03.02-21.43.07:417][339]LogPackageName: Display: FPackageName: Mount point removed: '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Intermediate/DataprepTemp/' unmounted from '/DataprepCore/Transient/'
+[2026.03.02-21.43.07:870][339]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.02-21.43.07:892][339]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.02-21.43.07:892][339]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CADE475-4928-DC37-11E7-E581BCFD2292%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=9cfdca7f4b419b140b3ab3b42d6ab54d%7C696e17bc770b42ab8c541d06aa03ab7a%7C29c4392b-15ab-4e8d-a9dc-33ae8a9d0e33&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.02-21.43.08:442][339]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.02-21.43.08:442][339]RenderDocPlugin: plugin has been unloaded.
+[2026.03.02-21.43.08:442][339]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.02-21.43.08:442][339]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.02-21.43.08:444][339]LogXGEController: Cleaning working directory: C:/Users/Matthew/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.02-21.43.08:447][339]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.02-21.43.08:447][339]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.02-21.43.08:447][339]LogPakFile: Destroying PakPlatformFile
+[2026.03.02-21.43.09:232][339]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.02-21.43.09:298][339]LogExit: Exiting.
+[2026.03.02-21.43.09:330][339]Log file closed, 03/02/26 22:43:09
