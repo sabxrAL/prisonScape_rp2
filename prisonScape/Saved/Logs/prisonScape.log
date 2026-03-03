@@ -4569,3 +4569,1284 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-13.05.59:903][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.03-13.05.59:903][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.03-13.05.59:904][136]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.08.47:821][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11802.507812
+[2026.03.03-13.08.47:985][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.08.47:985][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11802.655273, Update Interval: 344.030884
+[2026.03.03-13.09.15:978][472]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_9
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:441][495]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_10
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:497][496]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_11
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:521][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_12
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:546][498]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_13
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:571][499]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_14
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:599][500]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_15
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:622][501]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_16
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:648][502]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_17
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:671][503]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_18
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:695][504]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_19
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:717][505]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_20
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.16:744][506]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_21
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:0040
+[2026.03.03-13.09.40:095][719]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.09.49:811][222]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.09.50:116][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.09.50:118][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.09.50:118][230]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_200
+[2026.03.03-13.09.51:114][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.03.03-13.09.51:134][279]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.03.03-13.09.51:140][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.09.51:140][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.09.51:141][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_221
+[2026.03.03-13.10.56:523][440]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.10.56:575][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.03-13.10.56:582][440]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.11.01:267][640]LogSlate: Window 'Celda_Puerta' being destroyed
+[2026.03.03-13.13.33:063][752]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.13.33:063][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.13.33:138][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.03.03-13.13.57:001][572]Cmd: PIVOT SNAPPED
+[2026.03.03-13.14.13:548][774]Cmd: PIVOT SNAPPED
+[2026.03.03-13.14.20:044][250]Cmd: ACTOR BAKEPREPIVOT
+[2026.03.03-13.14.26:774][757]Cmd: PIVOT SNAPPED
+[2026.03.03-13.14.31:282][ 86]Cmd: ACTOR BAKEPREPIVOT
+[2026.03.03-13.14.35:689][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.14.35:797][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.03-13.14.35:921][424]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.14.35:922][424]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSC759F64A4D58813CA72CEF886585EAF9.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.14.35:941][424]LogFileHelpers: Saving map 'Carcel_FPS' took 0.207
+[2026.03.03-13.14.35:949][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.103 ms (total: 5.01 sec)
+[2026.03.03-13.14.35:985][424]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.14.35:985][424]LogContentValidation: Enabled validators:
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.14.35:985][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.14.35:985][424]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.15.03:715][308]Cmd: DUPLICATE
+[2026.03.03-13.15.03:715][308]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.04:551][368]Cmd: DUPLICATE
+[2026.03.03-13.15.04:551][368]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.04:974][397]Cmd: DUPLICATE
+[2026.03.03-13.15.04:974][397]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.05:177][407]Cmd: DUPLICATE
+[2026.03.03-13.15.05:177][407]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.05:367][416]Cmd: DUPLICATE
+[2026.03.03-13.15.05:367][416]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.05:575][427]Cmd: DUPLICATE
+[2026.03.03-13.15.05:576][427]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.05:766][436]Cmd: DUPLICATE
+[2026.03.03-13.15.05:766][436]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.05:965][446]Cmd: DUPLICATE
+[2026.03.03-13.15.05:965][446]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.06:156][455]Cmd: DUPLICATE
+[2026.03.03-13.15.06:156][455]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.06:350][464]Cmd: DUPLICATE
+[2026.03.03-13.15.06:350][464]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.06:503][470]Cmd: DUPLICATE
+[2026.03.03-13.15.06:503][470]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.06:694][479]Cmd: DUPLICATE
+[2026.03.03-13.15.06:694][479]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.15.21:838][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12196.519531
+[2026.03.03-13.15.22:017][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.15.22:017][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12196.686523, Update Interval: 321.645569
+[2026.03.03-13.16.28:262][303]Cmd: DUPLICATE
+[2026.03.03-13.16.28:262][303]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.16.33:914][720]Cmd: DUPLICATE
+[2026.03.03-13.16.33:914][720]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.19.49:112][395]Cmd: DUPLICATE
+[2026.03.03-13.19.49:112][395]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.20.04:398][414]Cmd: DUPLICATE
+[2026.03.03-13.20.04:398][414]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.20.27:383][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.20.27:383][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.20.27:388][116]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_5
+[2026.03.03-13.20.27:392][116]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_5
+[2026.03.03-13.20.27:869][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.03.03-13.20.27:879][138]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2026.03.03-13.20.27:884][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.20.27:885][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.20.27:890][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_6
+[2026.03.03-13.20.27:894][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_6
+[2026.03.03-13.21.37:926][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12572.604492
+[2026.03.03-13.21.38:253][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.21.38:253][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12572.920898, Update Interval: 333.542297
+[2026.03.03-13.22.05:337][214]Cmd: DUPLICATE
+[2026.03.03-13.22.05:337][214]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.22.30:073][972]Cmd: DUPLICATE
+[2026.03.03-13.22.30:073][972]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.22.32:675][153]Cmd: TRANSACTION UNDO
+[2026.03.03-13.22.32:675][153]LogEditorTransaction: Undo Duplicate Elements
+[2026.03.03-13.22.38:298][495]Cmd: DUPLICATE
+[2026.03.03-13.22.38:298][495]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.23.12:064][ 89]Cmd: DUPLICATE
+[2026.03.03-13.23.12:064][ 89]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.23.33:872][685]Cmd: DUPLICATE
+[2026.03.03-13.23.33:872][685]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.24.39:480][402]Cmd: DUPLICATE
+[2026.03.03-13.24.39:480][402]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.25.02:447][ 54]Cmd: DUPLICATE
+[2026.03.03-13.25.02:447][ 54]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.25.28:658][846]Cmd: DUPLICATE
+[2026.03.03-13.25.28:658][846]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.26.05:504][525]Cmd: DUPLICATE
+[2026.03.03-13.26.05:504][525]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.26.14:315][157]Cmd: DUPLICATE
+[2026.03.03-13.26.14:315][157]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.26.35:126][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.26.35:231][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.03.03-13.26.35:375][614]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.26.35:377][614]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS8BC774EA4C951759394CB49CA6FB1206.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.26.35:396][614]LogFileHelpers: Saving map 'Carcel_FPS' took 0.224
+[2026.03.03-13.26.35:408][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.979 ms (total: 5.29 sec)
+[2026.03.03-13.26.35:449][614]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.26.35:449][614]LogContentValidation: Enabled validators:
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.26.35:449][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.26.35:449][614]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.26.36:445][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.26.36:457][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.26.36:457][693]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.26.36:495][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037988s)
+[2026.03.03-13.26.36:495][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.038023s)
+[2026.03.03-13.26.36:517][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.03-13.26.36:519][693]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.26.36:520][693]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2026.03.03-13.26.36:521][693]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.03.03-13.26.36:521][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.26.36:521][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.26.36:521][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.26.36:521][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.26.36:522][693]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.26.36:522][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.26.36:522][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.26.36:522][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.26.36:522][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.26.36:522][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.26.36:522][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.26.36:524][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.26.36:582][693]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.26.36:583][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.26.36:583][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.26.36:583][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.26.36:584][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.03.03-13.26.36:584][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.03.03-13.26.36:585][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.03.03-13.26.36:586][693]LogInit: FAudioDevice initialized with ID 21.
+[2026.03.03-13.26.36:586][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.03.03-13.26.36:586][693]LogAudio: Display: Audio Device (ID: 21) registered with world 'Carcel_FPS'.
+[2026.03.03-13.26.36:586][693]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.03-13.26.36:588][693]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.26.36:606][693]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.26.36
+[2026.03.03-13.26.36:608][693]LogWorld: Bringing up level for play took: 0.018827
+[2026.03.03-13.26.36:611][693]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.03.03-13.26.36:616][693]PIE: Server logged in
+[2026.03.03-13.26.36:617][693]PIE: Play in editor total start time 0.162 seconds.
+[2026.03.03-13.26.54:232][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.26.54:232][964]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.26.54:233][964]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.26.54:236][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.26.54:240][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.26.54:245][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.26.54:267][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.26.54:270][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.03-13.26.54:270][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.03.03-13.26.54:271][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.03.03-13.26.54:283][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.03.03-13.26.54:368][965]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.03.03-13.27.01:438][478]Cmd: DUPLICATE
+[2026.03.03-13.27.01:438][478]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.27.26:993][290]Cmd: DUPLICATE
+[2026.03.03-13.27.26:993][290]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.28.03:361][873]Cmd: DUPLICATE
+[2026.03.03-13.28.03:361][873]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.28.03:361][873]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.03.03-13.28.09:066][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12963.706055
+[2026.03.03-13.28.09:241][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.28.09:241][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12963.870117, Update Interval: 357.826477
+[2026.03.03-13.28.16:295][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.28.16:295][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.28.16:300][821]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_7
+[2026.03.03-13.28.16:303][821]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_7
+[2026.03.03-13.28.17:535][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.03.03-13.28.17:542][891]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.03.03-13.28.17:548][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.28.17:548][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_LockerG.BP_LockerG_C
+[2026.03.03-13.28.17:554][891]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_8
+[2026.03.03-13.28.17:557][891]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_LockerG.BP_LockerG as actor: BP_LockerG_C /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.BP_LockerG_C_8
+[2026.03.03-13.28.44:427][298]Cmd: DUPLICATE
+[2026.03.03-13.28.44:427][298]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.28.52:380][902]Cmd: DUPLICATE
+[2026.03.03-13.28.52:380][902]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.29.12:749][373]Cmd: DUPLICATE
+[2026.03.03-13.29.12:749][373]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.30.26:071][979]Cmd: DUPLICATE
+[2026.03.03-13.30.26:071][979]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.30.42:918][184]Cmd: DUPLICATE
+[2026.03.03-13.30.42:918][184]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.30.46:924][456]Cmd: DUPLICATE
+[2026.03.03-13.30.46:924][456]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.31.04:060][797]Cmd: DUPLICATE
+[2026.03.03-13.31.04:062][797]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.31.20:630][ 55]Cmd: DELETE
+[2026.03.03-13.31.20:630][ 55]Cmd: ACTOR DELETE
+[2026.03.03-13.31.20:648][ 55]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-13.31.20:679][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.03-13.31.20:690][ 55]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.03.03-13.31.44:084][856]Cmd: DUPLICATE
+[2026.03.03-13.31.44:084][856]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.31.54:913][600]Cmd: DUPLICATE
+[2026.03.03-13.31.54:914][600]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.32.20:856][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.32.20:955][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.03-13.32.21:086][421]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.32.21:087][421]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS93CB9AB44417DA9A68E3F0A08E7096DA.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.32.21:106][421]LogFileHelpers: Saving map 'Carcel_FPS' took 0.210
+[2026.03.03-13.32.21:119][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.843 ms (total: 5.55 sec)
+[2026.03.03-13.32.21:158][421]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.32.21:158][421]LogContentValidation: Enabled validators:
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.32.21:158][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.32.21:159][421]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.32.23:833][631]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.32.23:844][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.32.23:866][631]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.32.23:902][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036565s)
+[2026.03.03-13.32.23:902][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036601s)
+[2026.03.03-13.32.23:927][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.03-13.32.23:929][631]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.32.23:930][631]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2026.03.03-13.32.23:931][631]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.32.23:931][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.32.23:932][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.32.23:932][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.32.23:932][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.32.23:932][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.32.23:935][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.32.23:991][631]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.32.23:991][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.32.23:991][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.32.23:991][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.32.23:992][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.03-13.32.23:992][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.03-13.32.23:994][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.03-13.32.23:994][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.03-13.32.23:994][631]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.03-13.32.23:994][631]LogAudio: Display: Audio Device (ID: 22) registered with world 'Carcel_FPS'.
+[2026.03.03-13.32.23:994][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.03-13.32.23:997][631]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.32.24:016][631]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.32.24
+[2026.03.03-13.32.24:017][631]LogWorld: Bringing up level for play took: 0.019535
+[2026.03.03-13.32.24:019][631]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.03.03-13.32.24:026][631]PIE: Server logged in
+[2026.03.03-13.32.24:027][631]PIE: Play in editor total start time 0.183 seconds.
+[2026.03.03-13.32.57:296][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.32.57:296][ 13]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.32.57:297][ 13]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.32.57:300][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.32.57:304][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.32.57:311][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.32.57:335][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.32.57:336][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.03-13.32.57:336][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.03.03-13.32.57:339][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.03.03-13.32.57:350][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.03.03-13.32.57:446][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.03.03-13.33.09:037][880]Cmd: DUPLICATE
+[2026.03.03-13.33.09:037][880]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.33.09:082][880]LogClass: Warning: Short type name "BP_SecurityCamera_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.33.09:090][880]LogClass: Warning: Short type name "BP_SecurityCamera_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.34.05:732][953]Cmd: DUPLICATE
+[2026.03.03-13.34.05:732][953]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.34.05:759][953]LogClass: Warning: Short type name "BP_SecurityCamera_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.34.05:766][953]LogClass: Warning: Short type name "BP_SecurityCamera_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.34.36:509][ 52]Cmd: DUPLICATE
+[2026.03.03-13.34.36:509][ 52]Cmd: ACTOR DUPLICATE
+[2026.03.03-13.34.36:536][ 52]LogClass: Warning: Short type name "BP_SecurityCamera_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.34.36:544][ 52]LogClass: Warning: Short type name "BP_SecurityCamera_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc7c79085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca605d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca61ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7c76d606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca650b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc7ca0975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc74d67b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffc74d6518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.03.03-13.35.05:424][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13380.019531
+[2026.03.03-13.35.05:589][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.35.05:589][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13380.173828, Update Interval: 351.496338
+[2026.03.03-13.35.08:798][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.35.08:919][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.03.03-13.35.09:070][397]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.35.09:070][397]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS1C6EA03F43BBBDA058E23E9121010FEA.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.35.09:090][397]LogFileHelpers: Saving map 'Carcel_FPS' took 0.241
+[2026.03.03-13.35.09:102][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.544 ms (total: 5.86 sec)
+[2026.03.03-13.35.09:146][397]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.35.09:146][397]LogContentValidation: Enabled validators:
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.35.09:146][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.35.09:147][397]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.35.13:054][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SecurityCamera.BP_SecurityCamera
+[2026.03.03-13.35.13:055][682]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.03-13.35.37:187][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.03-13.35.38:428][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.35.38:459][470]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_SecurityCamera] ([2] browsable assets)...
+[2026.03.03-13.35.38:471][470]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_SecurityCamera.BP_SecurityCamera]
+[2026.03.03-13.35.38:471][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SecurityCamera]
+[2026.03.03-13.35.38:488][470]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SecurityCamera
+[2026.03.03-13.35.38:488][470]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_SecurityCameraF02129A8441E18FEA76B03948FA1AF55.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_SecurityCamera.uasset'
+[2026.03.03-13.35.38:497][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.960 ms (total: 5.93 sec)
+[2026.03.03-13.35.38:549][470]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.35.38:550][470]LogContentValidation: Enabled validators:
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.35.38:550][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.35.38:550][470]AssetCheck: /Game/Blueprints/BP_SecurityCamera Validating asset
+[2026.03.03-13.35.40:116][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.35.40:217][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.03.03-13.35.40:357][618]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.35.40:358][618]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS1355ABD440790CA9DD1C39AF017DA7EB.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.35.40:377][618]LogFileHelpers: Saving map 'Carcel_FPS' took 0.216
+[2026.03.03-13.35.40:385][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.909 ms (total: 6.19 sec)
+[2026.03.03-13.35.40:430][618]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.35.40:430][618]LogContentValidation: Enabled validators:
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.35.40:430][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.35.40:430][618]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.35.41:887][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.35.41:898][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.35.41:927][738]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.35.41:964][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036618s)
+[2026.03.03-13.35.41:964][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036657s)
+[2026.03.03-13.35.41:987][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.03-13.35.41:989][738]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.35.41:990][738]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2026.03.03-13.35.41:992][738]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.35.41:992][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.35.41:992][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.35.41:992][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.35.41:992][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.35.41:992][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.35.41:995][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.35.42:050][738]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.35.42:050][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.35.42:050][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.35.42:050][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.35.42:050][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.03-13.35.42:050][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.03-13.35.42:053][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.03-13.35.42:053][738]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.03-13.35.42:053][738]LogAudio: Display: Audio Device (ID: 23) registered with world 'Carcel_FPS'.
+[2026.03.03-13.35.42:053][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.03-13.35.42:053][738]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.03-13.35.42:056][738]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.35.42:075][738]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.35.42
+[2026.03.03-13.35.42:077][738]LogWorld: Bringing up level for play took: 0.020190
+[2026.03.03-13.35.42:079][738]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.03.03-13.35.42:085][738]PIE: Server logged in
+[2026.03.03-13.35.42:086][738]PIE: Play in editor total start time 0.189 seconds.
+[2026.03.03-13.36.02:087][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.36.02:087][274]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.36.02:089][274]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.36.02:093][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.36.02:099][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.36.02:105][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.36.02:130][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.36.02:131][274]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.03-13.36.02:131][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.03.03-13.36.02:134][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.03.03-13.36.02:145][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.03-13.36.02:201][275]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.03.03-13.36.09:685][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.36.09:797][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.03-13.36.09:931][726]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.36.09:933][726]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSF1D7DC754CC30569E00E29886ECBD291.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.36.09:954][726]LogFileHelpers: Saving map 'Carcel_FPS' took 0.214
+[2026.03.03-13.36.09:966][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.590 ms (total: 6.48 sec)
+[2026.03.03-13.36.10:009][726]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.36.10:009][726]LogContentValidation: Enabled validators:
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.36.10:009][726]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.36.10:009][726]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.36.11:614][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.36.11:627][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.36.11:627][840]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.36.11:663][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036889s)
+[2026.03.03-13.36.11:663][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036923s)
+[2026.03.03-13.36.11:688][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.03-13.36.11:689][840]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.36.11:691][840]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2026.03.03-13.36.11:693][840]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.36.11:693][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.36.11:693][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.36.11:693][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.36.11:693][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.36.11:693][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.36.11:696][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.36.11:751][840]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.36.11:751][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.36.11:751][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.36.11:751][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.36.11:751][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.03.03-13.36.11:751][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.03.03-13.36.11:754][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.03.03-13.36.11:754][840]LogInit: FAudioDevice initialized with ID 24.
+[2026.03.03-13.36.11:754][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.03.03-13.36.11:754][840]LogAudio: Display: Audio Device (ID: 24) registered with world 'Carcel_FPS'.
+[2026.03.03-13.36.11:754][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.03-13.36.11:756][840]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.36.11:776][840]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.36.11
+[2026.03.03-13.36.11:777][840]LogWorld: Bringing up level for play took: 0.019809
+[2026.03.03-13.36.11:779][840]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.03.03-13.36.11:784][840]PIE: Server logged in
+[2026.03.03-13.36.11:786][840]PIE: Play in editor total start time 0.16 seconds.
+[2026.03.03-13.36.37:228][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.36.37:228][768]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.36.37:229][768]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.36.37:232][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.36.37:238][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.36.37:245][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.36.37:267][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.36.37:268][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.03-13.36.37:268][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.03.03-13.36.37:271][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.03.03-13.36.37:285][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.03-13.36.37:342][769]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.03.03-13.36.42:115][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.36.42:230][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.03-13.36.42:362][ 75]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.36.42:363][ 75]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSE01136484A83FECF3AAB34AA4EFA5A4C.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.36.42:382][ 75]LogFileHelpers: Saving map 'Carcel_FPS' took 0.205
+[2026.03.03-13.36.42:393][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 279.066 ms (total: 6.75 sec)
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: Enabled validators:
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.36.42:432][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.36.42:432][ 75]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.36.43:269][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.36.43:279][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.36.43:308][135]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.36.43:344][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036687s)
+[2026.03.03-13.36.43:344][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036725s)
+[2026.03.03-13.36.43:368][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.03.03-13.36.43:369][135]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.36.43:371][135]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2026.03.03-13.36.43:372][135]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.36.43:372][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.36.43:372][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.36.43:372][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.36.43:372][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.36.43:372][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.36.43:375][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.36.43:429][135]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.36.43:429][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.36.43:431][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.36.43:431][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.36.43:431][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.03.03-13.36.43:431][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.03.03-13.36.43:434][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.03.03-13.36.43:434][135]LogInit: FAudioDevice initialized with ID 25.
+[2026.03.03-13.36.43:434][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.03.03-13.36.43:434][135]LogAudio: Display: Audio Device (ID: 25) registered with world 'Carcel_FPS'.
+[2026.03.03-13.36.43:434][135]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.03-13.36.43:435][135]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.36.43:455][135]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.36.43
+[2026.03.03-13.36.43:456][135]LogWorld: Bringing up level for play took: 0.019429
+[2026.03.03-13.36.43:457][135]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.03.03-13.36.43:463][135]PIE: Server logged in
+[2026.03.03-13.36.43:465][135]PIE: Play in editor total start time 0.187 seconds.
+[2026.03.03-13.37.14:518][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.37.14:519][455]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.37.14:519][455]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.37.14:522][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.37.14:528][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.37.14:535][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.37.14:559][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.37.14:560][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.03-13.37.14:560][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.03.03-13.37.14:562][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.03.03-13.37.14:575][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.03.03-13.37.14:633][456]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.03.03-13.37.34:196][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.37.34:304][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.03-13.37.34:448][801]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.37.34:449][801]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS4652619D4CB3E6132168A1B4466AF81E.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.37.34:471][801]LogFileHelpers: Saving map 'Carcel_FPS' took 0.225
+[2026.03.03-13.37.34:484][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.063 ms (total: 7.04 sec)
+[2026.03.03-13.37.34:525][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.37.34:525][801]LogContentValidation: Enabled validators:
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.37.34:525][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.37.34:525][801]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.37.36:285][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.37.36:298][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.37.36:318][942]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.37.36:355][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036786s)
+[2026.03.03-13.37.36:355][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036822s)
+[2026.03.03-13.37.36:379][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.03.03-13.37.36:381][942]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.37.36:381][942]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2026.03.03-13.37.36:382][942]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.37.36:382][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.37.36:382][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.37.36:382][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.37.36:382][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.37.36:382][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.37.36:386][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.37.36:440][942]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.37.36:440][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.37.36:440][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.37.36:440][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.37.36:442][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.03.03-13.37.36:442][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.03.03-13.37.36:445][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.03.03-13.37.36:445][942]LogInit: FAudioDevice initialized with ID 26.
+[2026.03.03-13.37.36:445][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.03.03-13.37.36:445][942]LogAudio: Display: Audio Device (ID: 26) registered with world 'Carcel_FPS'.
+[2026.03.03-13.37.36:445][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.03-13.37.36:447][942]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.37.36:465][942]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.37.36
+[2026.03.03-13.37.36:465][942]LogWorld: Bringing up level for play took: 0.019252
+[2026.03.03-13.37.36:469][942]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.03.03-13.37.36:475][942]PIE: Server logged in
+[2026.03.03-13.37.36:476][942]PIE: Play in editor total start time 0.179 seconds.
+[2026.03.03-13.38.06:289][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.38.06:289][182]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.38.06:292][182]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.38.06:296][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.38.06:302][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.38.06:308][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.38.06:332][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.38.06:333][182]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.03-13.38.06:333][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2026.03.03-13.38.06:336][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2026.03.03-13.38.06:348][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.03.03-13.38.06:406][183]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.03.03-13.38.13:007][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.38.13:019][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.38.13:020][689]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.38.13:059][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039651s)
+[2026.03.03-13.38.13:059][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.039690s)
+[2026.03.03-13.38.13:084][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.03.03-13.38.13:088][689]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.38.13:089][689]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2026.03.03-13.38.13:090][689]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.38.13:090][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.38.13:090][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.38.13:090][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.38.13:090][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.38.13:090][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.38.13:093][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.38.13:149][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.38.13:149][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.38.13:149][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.38.13:149][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.38.13:150][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.03.03-13.38.13:150][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.03.03-13.38.13:153][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.03.03-13.38.13:153][689]LogInit: FAudioDevice initialized with ID 27.
+[2026.03.03-13.38.13:153][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.03.03-13.38.13:153][689]LogAudio: Display: Audio Device (ID: 27) registered with world 'Carcel_FPS'.
+[2026.03.03-13.38.13:153][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.03-13.38.13:155][689]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.38.13:174][689]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.38.13
+[2026.03.03-13.38.13:176][689]LogWorld: Bringing up level for play took: 0.019966
+[2026.03.03-13.38.13:178][689]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.03.03-13.38.13:184][689]PIE: Server logged in
+[2026.03.03-13.38.13:186][689]PIE: Play in editor total start time 0.167 seconds.
+[2026.03.03-13.38.57:340][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.38.57:340][807]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.38.57:340][807]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.38.57:344][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.38.57:349][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.38.57:357][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.38.57:381][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.38.57:382][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.03-13.38.57:382][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.03.03-13.38.57:385][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.03.03-13.38.57:397][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.03.03-13.38.57:453][808]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.03.03-13.39.12:061][874]Cmd: DELETE
+[2026.03.03-13.39.12:061][874]Cmd: ACTOR DELETE
+[2026.03.03-13.39.12:072][874]LogEditorActor: Deleted Actor: BP_BASEItem_C
+[2026.03.03-13.39.12:097][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.03-13.39.12:100][874]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.03.03-13.39.15:256][ 86]Cmd: DELETE
+[2026.03.03-13.39.15:256][ 86]Cmd: ACTOR DELETE
+[2026.03.03-13.39.15:266][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-13.39.15:291][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.03-13.39.15:294][ 86]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.03.03-13.39.25:748][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.39.25:850][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.03-13.39.25:980][894]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.39.25:980][894]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS52F4B0E74A34B980620D18AFDC071CD2.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.39.26:000][894]LogFileHelpers: Saving map 'Carcel_FPS' took 0.206
+[2026.03.03-13.39.26:011][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.885 ms (total: 7.31 sec)
+[2026.03.03-13.39.26:051][894]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.39.26:051][894]LogContentValidation: Enabled validators:
+[2026.03.03-13.39.26:051][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.39.26:051][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.39.26:051][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.39.26:051][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.39.26:052][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.39.26:052][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.39.26:052][894]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.39.26:934][984]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.39.26:951][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.39.26:980][984]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.39.27:019][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039046s)
+[2026.03.03-13.39.27:019][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.039113s)
+[2026.03.03-13.39.27:044][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.03-13.39.27:046][984]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.39.27:047][984]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2026.03.03-13.39.27:047][984]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.39.27:047][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.39.27:047][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.39.27:047][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.39.27:049][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.39.27:049][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.39.27:050][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.39.27:108][984]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.39.27:108][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.39.27:108][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.39.27:108][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.39.27:108][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.03.03-13.39.27:108][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.03.03-13.39.27:112][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.03.03-13.39.27:112][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.03.03-13.39.27:112][984]LogInit: FAudioDevice initialized with ID 28.
+[2026.03.03-13.39.27:112][984]LogAudio: Display: Audio Device (ID: 28) registered with world 'Carcel_FPS'.
+[2026.03.03-13.39.27:112][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.03-13.39.27:115][984]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.39.27:134][984]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.39.27
+[2026.03.03-13.39.27:135][984]LogWorld: Bringing up level for play took: 0.020192
+[2026.03.03-13.39.27:137][984]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.03.03-13.39.27:144][984]PIE: Server logged in
+[2026.03.03-13.39.27:145][984]PIE: Play in editor total start time 0.195 seconds.
+[2026.03.03-13.40.01:761][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.40.01:761][127]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.40.01:761][127]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.40.01:763][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.40.01:769][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.40.01:776][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.40.01:798][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-13.40.01:798][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.03-13.40.01:798][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2026.03.03-13.40.01:799][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2026.03.03-13.40.01:805][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.40.01:813][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.03-13.40.01:848][128]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.03.03-13.40.10:274][881]Cmd: DELETE
+[2026.03.03-13.40.10:274][881]Cmd: ACTOR DELETE
+[2026.03.03-13.40.10:284][881]LogEditorActor: Deleted Actor: BP_Radio_C
+[2026.03.03-13.40.10:310][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.03.03-13.40.10:313][881]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.03.03-13.40.16:904][369]Cmd: DELETE
+[2026.03.03-13.40.16:904][369]Cmd: ACTOR DELETE
+[2026.03.03-13.40.16:918][369]LogEditorActor: Deleted Actor: BP_Radio_C
+[2026.03.03-13.40.16:942][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.03-13.40.16:946][369]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.03.03-13.40.26:754][ 39]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.03-13.40.32:881][482]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.03-13.40.55:263][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.40.55:265][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.40.55:265][101]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_262
+[2026.03.03-13.40.56:087][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.03-13.40.56:090][157]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.03-13.40.56:097][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.40.56:097][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta
+[2026.03.03-13.40.56:098][157]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Carcel_Assets/Carcel_Celda_Assets/Celda_Puerta.Celda_Puerta as actor: StaticMeshActor /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS:PersistentLevel.StaticMeshActor_263
+[2026.03.03-13.41.11:456][159]Cmd: PIVOT SNAPPED
+[2026.03.03-13.41.14:916][389]Cmd: ACTOR BAKEPREPIVOT
+[2026.03.03-13.41.38:848][ 17]Cmd: MODE GRID=0
+[2026.03.03-13.41.43:085][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13777.708008
+[2026.03.03-13.41.43:245][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.41.43:245][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13777.854492, Update Interval: 335.897095
+[2026.03.03-13.41.46:473][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.41.46:588][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.03-13.41.46:718][571]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.41.46:719][571]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS3C2698E54728A7FC3CA003BF812973E4.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.41.46:738][571]LogFileHelpers: Saving map 'Carcel_FPS' took 0.206
+[2026.03.03-13.41.46:750][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.956 ms (total: 7.58 sec)
+[2026.03.03-13.41.46:781][571]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.41.46:781][571]LogContentValidation: Enabled validators:
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.41.46:781][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.41.46:781][571]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.41.47:560][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.41.47:573][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.41.47:573][629]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.41.47:611][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038690s)
+[2026.03.03-13.41.47:611][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.038734s)
+[2026.03.03-13.41.47:632][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.03-13.41.47:633][629]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.41.47:635][629]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2026.03.03-13.41.47:635][629]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.41.47:635][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.41.47:635][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.41.47:635][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.41.47:635][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.41.47:635][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.41.47:639][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.41.47:694][629]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.41.47:694][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.41.47:694][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.41.47:694][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.41.47:694][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.03.03-13.41.47:694][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.03.03-13.41.47:697][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.03.03-13.41.47:697][629]LogInit: FAudioDevice initialized with ID 29.
+[2026.03.03-13.41.47:697][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.03.03-13.41.47:697][629]LogAudio: Display: Audio Device (ID: 29) registered with world 'Carcel_FPS'.
+[2026.03.03-13.41.47:697][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.03-13.41.47:700][629]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.41.47:717][629]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.41.47
+[2026.03.03-13.41.47:720][629]LogWorld: Bringing up level for play took: 0.019421
+[2026.03.03-13.41.47:721][629]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.03.03-13.41.47:728][629]PIE: Server logged in
+[2026.03.03-13.41.47:728][629]PIE: Play in editor total start time 0.158 seconds.
+[2026.03.03-13.42.10:502][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.42.10:502][382]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.42.10:502][382]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.42.10:506][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.42.10:513][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.42.10:519][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.42.10:542][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.42.10:544][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.03-13.42.10:544][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2026.03.03-13.42.10:546][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2026.03.03-13.42.10:559][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.03.03-13.42.10:650][383]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.03.03-13.42.29:775][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.03-13.42.30:980][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.42.31:012][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.03-13.42.31:097][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2026.03.03-13.42.31:097][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.03-13.42.31:138][610]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.03-13.42.31:140][610]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERA510905C401FE886E4679C8AC65656A9.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.03-13.42.31:149][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.810 ms (total: 7.75 sec)
+[2026.03.03-13.42.31:185][610]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.42.31:185][610]LogContentValidation: Enabled validators:
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.42.31:185][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.42.31:185][610]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.03-13.42.33:529][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.42.33:541][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.42.33:560][839]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.42.33:597][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036452s)
+[2026.03.03-13.42.33:597][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036492s)
+[2026.03.03-13.42.33:623][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.03-13.42.33:632][839]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.42.33:634][839]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2026.03.03-13.42.33:634][839]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.42.33:634][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.42.33:634][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.42.33:634][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.42.33:634][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.42.33:634][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.42.33:638][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.42.33:691][839]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.42.33:691][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.42.33:691][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.42.33:691][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.42.33:693][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.03.03-13.42.33:693][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.03.03-13.42.33:694][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.03.03-13.42.33:696][839]LogInit: FAudioDevice initialized with ID 30.
+[2026.03.03-13.42.33:696][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.03.03-13.42.33:696][839]LogAudio: Display: Audio Device (ID: 30) registered with world 'Carcel_FPS'.
+[2026.03.03-13.42.33:696][839]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.03-13.42.33:699][839]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.42.33:718][839]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.42.33
+[2026.03.03-13.42.33:718][839]LogWorld: Bringing up level for play took: 0.020490
+[2026.03.03-13.42.33:721][839]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.03-13.42.33:727][839]PIE: Server logged in
+[2026.03.03-13.42.33:729][839]PIE: Play in editor total start time 0.189 seconds.
+[2026.03.03-13.42.48:142][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.42.48:142][948]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.42.48:142][948]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.42.48:146][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.42.48:151][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.42.48:157][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.42.48:184][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-13.42.48:185][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.03-13.42.48:185][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2026.03.03-13.42.48:187][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2026.03.03-13.42.48:192][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.42.48:199][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.03-13.42.48:291][949]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.03-13.43.10:503][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.03-13.43.11:341][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.43.11:372][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.03-13.43.11:453][491]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2026.03.03-13.43.11:453][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.03-13.43.11:495][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.03-13.43.11:495][491]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER1D106524478BDAE6600ACCA457EC162D.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.03-13.43.11:505][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.840 ms (total: 7.92 sec)
+[2026.03.03-13.43.11:538][491]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.43.11:538][491]LogContentValidation: Enabled validators:
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.43.11:538][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.43.11:538][491]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.03-13.43.13:362][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.43.13:374][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.43.13:412][651]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.43.13:448][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036539s)
+[2026.03.03-13.43.13:448][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036578s)
+[2026.03.03-13.43.13:474][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.03-13.43.13:484][651]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.43.13:485][651]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2026.03.03-13.43.13:485][651]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.43.13:485][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.43.13:485][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.43.13:485][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.43.13:485][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.43.13:485][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.43.13:488][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.43.13:544][651]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.43.13:544][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.43.13:544][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.43.13:544][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.43.13:544][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.03.03-13.43.13:544][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.03.03-13.43.13:547][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.03.03-13.43.13:547][651]LogInit: FAudioDevice initialized with ID 31.
+[2026.03.03-13.43.13:547][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.03.03-13.43.13:547][651]LogAudio: Display: Audio Device (ID: 31) registered with world 'Carcel_FPS'.
+[2026.03.03-13.43.13:547][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.03-13.43.13:550][651]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.43.13:568][651]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.43.13
+[2026.03.03-13.43.13:569][651]LogWorld: Bringing up level for play took: 0.019139
+[2026.03.03-13.43.13:572][651]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.03-13.43.13:578][651]PIE: Server logged in
+[2026.03.03-13.43.13:579][651]PIE: Play in editor total start time 0.207 seconds.
+[2026.03.03-13.43.46:932][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.43.46:932][252]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.43.46:933][252]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.43.46:936][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.43.46:943][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.43.46:949][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.43.46:974][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-13.43.46:974][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.03-13.43.46:974][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2026.03.03-13.43.46:977][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2026.03.03-13.43.46:981][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.43.46:989][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.03.03-13.43.47:080][253]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.03-13.44.03:849][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.03-13.44.04:645][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.44.04:680][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.03-13.44.04:770][148]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2026.03.03-13.44.04:770][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.03-13.44.04:812][148]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.03-13.44.04:813][148]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERF237DF4942192C699DEDA2AC0A43C3ED.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.03-13.44.04:823][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.089 ms (total: 8.09 sec)
+[2026.03.03-13.44.04:860][148]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.44.04:860][148]LogContentValidation: Enabled validators:
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.44.04:860][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.44.04:860][148]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.03-13.44.06:630][303]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.44.06:641][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.44.06:662][303]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.44.06:699][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036186s)
+[2026.03.03-13.44.06:699][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036223s)
+[2026.03.03-13.44.06:724][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.03-13.44.06:734][303]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.44.06:735][303]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2026.03.03-13.44.06:736][303]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.44.06:736][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.44.06:736][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.44.06:736][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.44.06:737][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.44.06:737][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.44.06:738][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.44.06:794][303]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.44.06:794][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.44.06:794][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.44.06:794][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.44.06:794][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.03.03-13.44.06:794][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.03.03-13.44.06:797][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.03.03-13.44.06:797][303]LogInit: FAudioDevice initialized with ID 32.
+[2026.03.03-13.44.06:797][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.03.03-13.44.06:797][303]LogAudio: Display: Audio Device (ID: 32) registered with world 'Carcel_FPS'.
+[2026.03.03-13.44.06:797][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.03-13.44.06:800][303]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.44.06:818][303]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.44.06
+[2026.03.03-13.44.06:820][303]LogWorld: Bringing up level for play took: 0.019223
+[2026.03.03-13.44.06:823][303]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.03.03-13.44.06:829][303]PIE: Server logged in
+[2026.03.03-13.44.06:829][303]PIE: Play in editor total start time 0.191 seconds.
+[2026.03.03-13.44.29:112][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.44.29:112][ 23]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.44.29:114][ 23]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.44.29:117][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.44.29:123][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.44.29:129][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.44.29:155][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-13.44.29:156][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.03-13.44.29:156][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2026.03.03-13.44.29:158][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2026.03.03-13.44.29:164][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.44.29:170][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.03.03-13.44.29:265][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.03.03-13.44.38:171][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.03-13.44.39:303][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.44.39:338][ 81]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.03-13.44.39:429][ 81]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2026.03.03-13.44.39:429][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.03-13.44.39:470][ 81]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.03-13.44.39:471][ 81]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER2EC7BEF344141FB9719A7089F38DE9B0.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.03-13.44.39:481][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.303 ms (total: 8.27 sec)
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: Enabled validators:
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.44.39:512][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.44.39:512][ 81]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.03-13.44.42:905][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.44.42:917][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.44.42:952][437]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.44.42:989][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036518s)
+[2026.03.03-13.44.42:989][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036555s)
+[2026.03.03-13.44.43:014][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.03-13.44.43:024][437]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.44.43:025][437]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2026.03.03-13.44.43:027][437]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.44.43:027][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.44.43:027][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.44.43:027][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.44.43:027][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.44.43:027][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.44.43:030][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.44.43:085][437]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.44.43:085][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.44.43:085][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.44.43:085][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.44.43:085][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.03.03-13.44.43:085][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.03.03-13.44.43:088][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.03.03-13.44.43:088][437]LogInit: FAudioDevice initialized with ID 33.
+[2026.03.03-13.44.43:088][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.03.03-13.44.43:088][437]LogAudio: Display: Audio Device (ID: 33) registered with world 'Carcel_FPS'.
+[2026.03.03-13.44.43:088][437]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.03-13.44.43:092][437]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.44.43:109][437]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.44.43
+[2026.03.03-13.44.43:112][437]LogWorld: Bringing up level for play took: 0.019407
+[2026.03.03-13.44.43:114][437]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.03.03-13.44.43:120][437]PIE: Server logged in
+[2026.03.03-13.44.43:121][437]PIE: Play in editor total start time 0.205 seconds.
+[2026.03.03-13.45.05:783][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.45.05:783][248]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.45.05:783][248]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.45.05:787][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.45.05:793][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.45.05:799][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.45.05:822][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-13.45.05:822][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.03-13.45.05:822][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2026.03.03-13.45.05:825][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2026.03.03-13.45.05:829][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.45.05:837][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.03.03-13.45.05:928][249]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.03.03-13.45.09:107][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.45.09:137][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.03-13.45.09:137][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.03-13.45.09:178][582]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.03-13.45.09:179][582]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTERBFC264DA4C88E45B2FC808854DE5322C.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.03-13.45.09:187][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.375 ms (total: 8.35 sec)
+[2026.03.03-13.45.09:221][582]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.45.09:221][582]LogContentValidation: Enabled validators:
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.45.09:221][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.45.09:221][582]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.03-13.46.19:966][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.46.20:066][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.03.03-13.46.20:200][573]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.46.20:201][573]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPS8CE5CCF940DE6C8CF737399C3CB182D2.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.46.20:222][573]LogFileHelpers: Saving map 'Carcel_FPS' took 0.213
+[2026.03.03-13.46.20:234][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.837 ms (total: 8.62 sec)
+[2026.03.03-13.46.20:284][573]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.46.20:284][573]LogContentValidation: Enabled validators:
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.46.20:284][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.46.20:284][573]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
+[2026.03.03-13.46.21:067][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.03-13.46.21:079][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-13.46.21:103][637]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.46.21:139][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036339s)
+[2026.03.03-13.46.21:139][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.036378s)
+[2026.03.03-13.46.21:160][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.03.03-13.46.21:162][637]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.03.03-13.46.21:163][637]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2026.03.03-13.46.21:164][637]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-13.46.21:164][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-13.46.21:164][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-13.46.21:164][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-13.46.21:164][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-13.46.21:164][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-13.46.21:167][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-13.46.21:221][637]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.03.03-13.46.21:221][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-13.46.21:221][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-13.46.21:221][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-13.46.21:223][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.03.03-13.46.21:223][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.03.03-13.46.21:226][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.03.03-13.46.21:226][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.03.03-13.46.21:226][637]LogInit: FAudioDevice initialized with ID 34.
+[2026.03.03-13.46.21:226][637]LogAudio: Display: Audio Device (ID: 34) registered with world 'Carcel_FPS'.
+[2026.03.03-13.46.21:226][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.03-13.46.21:229][637]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.03-13.46.21:246][637]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.03.03-14.46.21
+[2026.03.03-13.46.21:247][637]LogWorld: Bringing up level for play took: 0.019036
+[2026.03.03-13.46.21:250][637]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.03-13.46.21:256][637]PIE: Server logged in
+[2026.03.03-13.46.21:258][637]PIE: Play in editor total start time 0.18 seconds.
+[2026.03.03-13.46.56:774][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.46.56:774][428]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.03.03-13.46.56:775][428]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-13.46.56:778][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.46.56:784][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-13.46.56:790][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-13.46.56:813][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-13.46.56:815][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.03-13.46.56:815][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2026.03.03-13.46.56:816][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2026.03.03-13.46.56:828][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.03-13.46.56:890][429]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.03-13.47.12:402][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.47.12:506][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.03-13.47.12:636][647]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Carcel_FPS
+[2026.03.03-13.47.12:638][647]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/Carcel_FPSA054D5B54383EB3A9AFA46A7BEFFC8D6.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Maps/Carcel_FPS.umap'
+[2026.03.03-13.47.12:657][647]LogFileHelpers: Saving map 'Carcel_FPS' took 0.206
+[2026.03.03-13.47.12:669][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.335 ms (total: 8.89 sec)
+[2026.03.03-13.47.12:707][647]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.47.12:707][647]LogContentValidation: Enabled validators:
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.47.12:707][647]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.47.12:707][647]AssetCheck: /Game/ThirdPerson/Maps/Carcel_FPS Validating asset
