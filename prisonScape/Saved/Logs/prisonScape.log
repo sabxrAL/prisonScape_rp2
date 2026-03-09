@@ -4891,3 +4891,38 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.09-21.28.27:125][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
 [2026.03.09-21.28.27:135][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2026.03.09-21.28.27:170][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.03.09-21.31.01:662][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.09-21.31.02:657][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-21.31.02:750][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_AccessDoor] ([2] browsable assets)...
+[2026.03.09-21.31.02:831][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_AccessDoor.BP_AccessDoor]
+[2026.03.09-21.31.02:831][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_AccessDoor]
+[2026.03.09-21.31.02:831][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_AccessDoor" FILE="../../../../../../Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_AccessDoor.uasset" SILENT=true
+[2026.03.09-21.31.02:838][906]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_AccessDoor
+[2026.03.09-21.31.02:838][906]LogSavePackage: Moving '../../../../../../Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_AccessDoor59558A254434ECBD51AAEF92A089D32E.tmp' to '../../../../../../Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_AccessDoor.uasset'
+[2026.03.09-21.31.02:851][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.227 ms (total: 5.54 sec)
+[2026.03.09-21.31.02:926][906]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-21.31.02:926][906]LogContentValidation: Enabled validators:
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-21.31.02:926][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-21.31.02:926][906]AssetCheck: /Game/Blueprints/BP_AccessDoor Validating asset
+[2026.03.09-21.31.26:983][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-21.31.27:057][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_CHARACTER] ([2] browsable assets)...
+[2026.03.09-21.31.27:105][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_CHARACTER.BP_CHARACTER]
+[2026.03.09-21.31.27:106][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_CHARACTER]
+[2026.03.09-21.31.27:137][582]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CHARACTER
+[2026.03.09-21.31.27:137][582]LogSavePackage: Moving '../../../../../../Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_CHARACTER10EDE1514DAEF117DC95B79671EA773C.tmp' to '../../../../../../Users/migue/Documents/GitHub/prisonScape_rp2/prisonScape/Content/ThirdPerson/Blueprints/BP_CHARACTER.uasset'
+[2026.03.09-21.31.27:150][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.048 ms (total: 5.70 sec)
+[2026.03.09-21.31.27:223][582]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-21.31.27:223][582]LogContentValidation: Enabled validators:
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-21.31.27:224][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-21.31.27:224][582]AssetCheck: /Game/ThirdPerson/Blueprints/BP_CHARACTER Validating asset
+[2026.03.09-21.31.27:952][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
