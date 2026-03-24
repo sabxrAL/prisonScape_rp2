@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+prisonScape/Content/Blueprints/BP_TriggerWin.uasset
+prisonScape/Content/mainmenumap.umap
+prisonScape/Content/UI/WBP_WinScreen.uasset
+prisonScape/Saved/Autosaves/PackageRestoreData.json
+prisonScape/Saved/Config/CrashReportClient/UECC-Windows-967A26D843E6EE7CF446EFAFC3FEB167/CrashReportClient.ini
+prisonScape/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+prisonScape/Saved/Config/WindowsEditor/ObjectMixerSerializedData.ini
+prisonScape/Saved/Logs/prisonScape-backup-2026.03.24-15.50.02.log
+prisonScape/Saved/Logs/prisonScape.log
+prisonScape/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_c1ff929ae6e37fb4/Default/DDCKey-Editor.txt
