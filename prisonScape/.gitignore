@@ -1,0 +1,11 @@
+# Carpetas temporales de Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Archivos de solución de Visual Studio
+.vs/
+*.sln
+*.suo
