@@ -2818,3 +2818,691 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-10.11.06:945][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2026.04.20-10.11.06:963][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2026.04.20-10.11.07:171][703]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.04.20-10.12.47:445][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6609.067871
+[2026.04.20-10.12.47:618][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.12.47:618][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6609.230469, Update Interval: 324.782257
+[2026.04.20-10.13.54:779][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.13.54:797][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.13.54:798][840]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.13.54:878][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081098s)
+[2026.04.20-10.13.54:878][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.081138s)
+[2026.04.20-10.13.54:907][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.04.20-10.13.54:913][840]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.13.54:914][840]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2026.04.20-10.13.54:915][840]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.13.54:915][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.13.54:915][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.13.54:915][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.13.54:915][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.13.54:915][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.13.54:917][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.13.54:974][840]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.13.54:975][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.13.54:975][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.13.54:975][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.13.54:975][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.20-10.13.54:975][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.20-10.13.54:979][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.20-10.13.54:979][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.20-10.13.54:979][840]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.20-10.13.54:979][840]LogAudio: Display: Audio Device (ID: 14) registered with world 'Carcel_FPS'.
+[2026.04.20-10.13.54:979][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.20-10.13.54:982][840]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.13.55:016][840]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.13.55
+[2026.04.20-10.13.55:018][840]LogWorld: Bringing up level for play took: 0.035693
+[2026.04.20-10.13.55:021][840]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.04.20-10.13.55:029][840]PIE: Server logged in
+[2026.04.20-10.13.55:030][840]PIE: Play in editor total start time 0.24 seconds.
+[2026.04.20-10.14.35:727][432]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.14.38:731][593]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.14.43:024][811]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.14.45:946][970]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.14.48:893][138]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.15.00:126][804]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.15.07:613][250]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.15.41:651][465]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.15.54:890][239]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.16.04:501][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.16.04:501][761]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.16.04:502][761]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.16.04:510][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.16.04:516][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.16.04:524][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.16.04:551][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.16.04:554][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.20-10.16.04:554][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.04.20-10.16.04:557][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.04.20-10.16.04:574][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.04.20-10.16.04:641][762]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.04.20-10.17.27:978][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.04.20-10.17.29:157][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.17.29:232][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Radio] ([2] browsable assets)...
+[2026.04.20-10.17.29:305][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Radio.BP_Radio]
+[2026.04.20-10.17.29:305][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Radio]
+[2026.04.20-10.17.29:305][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Radio" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset" SILENT=true
+[2026.04.20-10.17.29:315][388]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Radio
+[2026.04.20-10.17.29:315][388]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_Radio20998FDF492ACDD94FCE0CAEAD129EBC.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset'
+[2026.04.20-10.17.29:325][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.773 ms (total: 2.53 sec)
+[2026.04.20-10.17.29:390][388]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.17.29:390][388]LogContentValidation: Enabled validators:
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.17.29:390][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.17.29:390][388]AssetCheck: /Game/Blueprints/BP_Radio Validating asset
+[2026.04.20-10.17.35:687][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.20-10.17.36:588][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.17.36:660][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Radio] ([2] browsable assets)...
+[2026.04.20-10.17.36:708][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Radio.BP_Radio]
+[2026.04.20-10.17.36:708][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Radio]
+[2026.04.20-10.17.36:708][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Radio" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset" SILENT=true
+[2026.04.20-10.17.36:717][171]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Radio
+[2026.04.20-10.17.36:718][171]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_Radio2E9C260249F474375A91A9A38FB09A4F.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset'
+[2026.04.20-10.17.36:728][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.408 ms (total: 2.67 sec)
+[2026.04.20-10.17.36:784][171]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.17.36:784][171]LogContentValidation: Enabled validators:
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.17.36:784][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.17.36:784][171]AssetCheck: /Game/Blueprints/BP_Radio Validating asset
+[2026.04.20-10.17.38:955][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.17.38:974][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.17.39:002][372]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.17.39:082][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080013s)
+[2026.04.20-10.17.39:082][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.080055s)
+[2026.04.20-10.17.39:109][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.20-10.17.39:114][372]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.17.39:117][372]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2026.04.20-10.17.39:117][372]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.17.39:117][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.17.39:117][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.17.39:117][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.17.39:117][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.17.39:117][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.17.39:120][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.17.39:175][372]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.17.39:177][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.17.39:177][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.17.39:177][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.17.39:177][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.20-10.17.39:177][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.20-10.17.39:180][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.20-10.17.39:180][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.20-10.17.39:180][372]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.20-10.17.39:180][372]LogAudio: Display: Audio Device (ID: 15) registered with world 'Carcel_FPS'.
+[2026.04.20-10.17.39:180][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.20-10.17.39:183][372]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.17.39:216][372]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.17.39
+[2026.04.20-10.17.39:218][372]LogWorld: Bringing up level for play took: 0.034515
+[2026.04.20-10.17.39:221][372]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.04.20-10.17.39:228][372]PIE: Server logged in
+[2026.04.20-10.17.39:229][372]PIE: Play in editor total start time 0.263 seconds.
+[2026.04.20-10.17.40:811][453]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.17.42:391][539]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.17.46:758][753]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.17.54:779][210]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.18.01:388][586]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.18.26:190][200]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.18.38:870][939]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.18.47:431][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6969.022949
+[2026.04.20-10.18.47:578][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.18.47:578][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6969.155273, Update Interval: 338.889130
+[2026.04.20-10.18.53:325][879]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.18.53:325][879]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.18.53:325][879]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.19.37:990][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.19.37:990][542]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.19.37:992][542]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.19.37:998][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.19.38:003][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.19.38:011][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.19.38:041][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-10.19.38:041][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.20-10.19.38:041][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.20-10.19.38:043][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.04.20-10.19.38:049][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.19.38:059][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.04.20-10.19.38:124][543]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.04.20-10.20.19:326][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.20.19:392][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2026.04.20-10.20.19:392][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2026.04.20-10.20.19:392][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset" SILENT=true
+[2026.04.20-10.20.19:396][978]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2026.04.20-10.20.19:398][978]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BT_AI7614E2BC4B335A40FE5FCBB81FCF395C.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset'
+[2026.04.20-10.20.19:408][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.526 ms (total: 2.75 sec)
+[2026.04.20-10.20.19:473][978]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.20.19:473][978]LogContentValidation: Enabled validators:
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.20.19:473][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.20.19:473][978]AssetCheck: /Game/AI/BT_AI Validating asset
+[2026.04.20-10.21.05:116][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_AccessDoor.BP_AccessDoor
+[2026.04.20-10.21.05:117][825]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.04.20-10.21.20:434][568]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 696...b7a
+[2026.04.20-10.21.20:435][569]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.55e+07
+[2026.04.20-10.21.20:601][588]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 696...b7a Access[Expires: 2026.04.20-12.21.18 Remaining: 7200.60] Refresh[Expires: 2026-10-16T19:47:24.704Z Remaining: 15499566.70] State: Valid
+[2026.04.20-10.21.23:659][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.04.20-10.21.24:495][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.21.24:595][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_AccessDoor] ([2] browsable assets)...
+[2026.04.20-10.21.24:654][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_AccessDoor.BP_AccessDoor]
+[2026.04.20-10.21.24:654][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_AccessDoor]
+[2026.04.20-10.21.24:654][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_AccessDoor" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_AccessDoor.uasset" SILENT=true
+[2026.04.20-10.21.24:666][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_AccessDoor
+[2026.04.20-10.21.24:667][992]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_AccessDoorA1721F394B6F02C19C913A8D62C46AA3.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_AccessDoor.uasset'
+[2026.04.20-10.21.24:680][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.979 ms (total: 2.94 sec)
+[2026.04.20-10.21.24:739][992]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.21.24:739][992]LogContentValidation: Enabled validators:
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.21.24:739][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.21.24:739][992]AssetCheck: /Game/Blueprints/BP_AccessDoor Validating asset
+[2026.04.20-10.21.28:235][322]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.21.28:253][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.21.28:254][322]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.21.28:333][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078594s)
+[2026.04.20-10.21.28:333][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.078638s)
+[2026.04.20-10.21.28:361][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.20-10.21.28:367][322]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.21.28:369][322]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2026.04.20-10.21.28:369][322]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.21.28:369][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.21.28:369][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.21.28:369][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.21.28:369][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.21.28:369][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.21.28:373][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.21.28:428][322]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.21.28:428][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.21.28:428][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.21.28:428][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.21.28:429][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.20-10.21.28:429][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.20-10.21.28:432][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.20-10.21.28:432][322]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.20-10.21.28:432][322]LogAudio: Display: Audio Device (ID: 16) registered with world 'Carcel_FPS'.
+[2026.04.20-10.21.28:432][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.20-10.21.28:432][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.20-10.21.28:434][322]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.21.28:467][322]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.21.28
+[2026.04.20-10.21.28:469][322]LogWorld: Bringing up level for play took: 0.034099
+[2026.04.20-10.21.28:471][322]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.04.20-10.21.28:479][322]PIE: Server logged in
+[2026.04.20-10.21.28:480][322]PIE: Play in editor total start time 0.234 seconds.
+[2026.04.20-10.21.30:322][421]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.21.31:092][464]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.21.35:433][680]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.21.35:846][699]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:870][700]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:891][701]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:912][702]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:932][703]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:954][704]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.35:975][705]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.36:959][756]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.36:977][757]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.36:997][758]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:015][759]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:036][760]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:053][761]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:071][762]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:092][763]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:108][764]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:127][765]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:145][766]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:166][767]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:184][768]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:203][769]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:219][770]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:238][771]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:260][772]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:278][773]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:295][774]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:312][775]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:330][776]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:346][777]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:363][778]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.37:381][779]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:098][823]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:113][824]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:128][825]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:144][826]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:158][827]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:175][828]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:190][829]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:207][830]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:221][831]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.38:241][832]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:566][976]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:582][977]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:599][978]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:615][979]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:631][980]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:649][981]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:664][982]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:681][983]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:697][984]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:712][985]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:730][986]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:746][987]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:766][988]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:783][989]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:798][990]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:815][991]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:831][992]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:847][993]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:862][994]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:878][995]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:896][996]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:912][997]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:927][998]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:943][999]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:965][  0]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:980][  1]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.40:996][  2]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:013][  3]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:029][  4]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:045][  5]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:062][  6]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:077][  7]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:094][  8]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:110][  9]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:127][ 10]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.41:143][ 11]LogBlueprintUserMessages: [BP_AccessDoor_C_2] No tienes la tarjeta correcta
+[2026.04.20-10.21.44:285][212]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.21.51:231][609]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.22.13:528][101]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.22.26:143][838]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.22.40:620][703]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.22.40:620][703]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.22.40:620][703]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.23.48:203][121]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.23.48:203][121]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.23.48:203][121]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.23.56:449][638]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.04.20-10.23.56:449][638]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.20-10.23.56:449][638]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.04.20-10.23.57:659][711]Cmd: quit
+[2026.04.20-10.23.57:666][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.23.57:673][711]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.23.57:698][711]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.23.57:705][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.23.57:718][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.23.57:727][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.23.57:754][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-10.23.57:754][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.20-10.23.57:754][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.20-10.23.57:756][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.04.20-10.23.57:763][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.23.57:772][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.04.20-10.23.57:892][712]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.04.20-10.24.18:609][664]LogDerivedDataCache: C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-10.24.27:203][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.24.27:276][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Radio] ([2] browsable assets)...
+[2026.04.20-10.24.27:276][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Radio]
+[2026.04.20-10.24.27:276][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Radio" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset" SILENT=true
+[2026.04.20-10.24.27:285][662]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Radio
+[2026.04.20-10.24.27:286][662]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BP_RadioA53860AB42349C024B9FF59D1ADE89E9.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/Blueprints/BP_Radio.uasset'
+[2026.04.20-10.24.27:295][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.984 ms (total: 3.03 sec)
+[2026.04.20-10.24.27:345][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.24.27:345][662]LogContentValidation: Enabled validators:
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.24.27:345][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.24.27:345][662]AssetCheck: /Game/Blueprints/BP_Radio Validating asset
+[2026.04.20-10.25.01:207][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7342.682617
+[2026.04.20-10.25.01:397][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.25.01:397][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7342.865234, Update Interval: 313.982361
+[2026.04.20-10.29.47:082][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.29.47:117][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.29.47:140][428]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.29.47:220][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078451s)
+[2026.04.20-10.29.47:220][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.078497s)
+[2026.04.20-10.29.47:248][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.04.20-10.29.47:256][428]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.29.47:258][428]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2026.04.20-10.29.47:258][428]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.29.47:258][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.29.47:258][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.29.47:258][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.29.47:258][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.29.47:258][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.29.47:261][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.29.47:316][428]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.29.47:316][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.29.47:316][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.29.47:316][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.29.47:316][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.20-10.29.47:316][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.20-10.29.47:321][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.20-10.29.47:321][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.20-10.29.47:321][428]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.20-10.29.47:321][428]LogAudio: Display: Audio Device (ID: 17) registered with world 'Carcel_FPS'.
+[2026.04.20-10.29.47:321][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.20-10.29.47:322][428]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.29.47:355][428]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.29.47
+[2026.04.20-10.29.47:357][428]LogWorld: Bringing up level for play took: 0.033387
+[2026.04.20-10.29.47:359][428]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.04.20-10.29.47:367][428]PIE: Server logged in
+[2026.04.20-10.29.47:367][428]PIE: Play in editor total start time 0.274 seconds.
+[2026.04.20-10.29.49:650][542]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.29.50:886][607]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.29.55:301][813]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.30.00:028][ 53]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.30.07:364][468]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.30.14:253][833]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.30.34:835][108]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.30.46:461][746]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.30.59:882][541]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.30.59:882][541]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.30.59:882][541]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.31.12:206][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7713.702148
+[2026.04.20-10.31.12:443][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.31.12:443][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7713.922852, Update Interval: 336.342041
+[2026.04.20-10.31.27:554][191]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.31.27:554][191]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.31.27:554][191]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.31.42:228][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.31.42:228][ 86]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.31.42:230][ 86]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.31.42:237][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.31.42:251][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.31.42:257][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.31.42:285][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.31.42:290][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.20-10.31.42:290][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.20-10.31.42:291][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.04.20-10.31.42:308][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.04.20-10.31.42:372][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.04.20-10.31.43:343][144]LogSlate: Window 'BT_AI' being destroyed
+[2026.04.20-10.31.43:367][144]LogSlate: Window 'BT_AI' being destroyed
+[2026.04.20-10.36.30:598][406]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_AI.BT_AI
+[2026.04.20-10.36.52:674][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.36.52:747][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2026.04.20-10.36.52:747][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2026.04.20-10.36.52:747][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset" SILENT=true
+[2026.04.20-10.36.52:751][885]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2026.04.20-10.36.52:753][885]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BT_AIAAF6BC4B4711D55714300E8B6D0AA47D.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset'
+[2026.04.20-10.36.52:763][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.893 ms (total: 3.12 sec)
+[2026.04.20-10.36.52:834][885]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.36.52:834][885]LogContentValidation: Enabled validators:
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.36.52:834][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.36.52:834][885]AssetCheck: /Game/AI/BT_AI Validating asset
+[2026.04.20-10.37.13:808][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.37.13:873][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2026.04.20-10.37.13:873][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2026.04.20-10.37.13:873][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset" SILENT=true
+[2026.04.20-10.37.13:879][360]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2026.04.20-10.37.13:880][360]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BT_AIC38C994E40AE8ADBFF7014A3D22D16CC.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset'
+[2026.04.20-10.37.13:889][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.711 ms (total: 3.20 sec)
+[2026.04.20-10.37.13:957][360]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.37.13:957][360]LogContentValidation: Enabled validators:
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.37.13:957][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.37.13:957][360]AssetCheck: /Game/AI/BT_AI Validating asset
+[2026.04.20-10.37.15:417][474]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.37.15:440][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.37.15:466][474]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.37.15:547][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081256s)
+[2026.04.20-10.37.15:547][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.081297s)
+[2026.04.20-10.37.15:624][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.04.20-10.37.15:630][474]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.37.15:631][474]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2026.04.20-10.37.15:633][474]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.37.15:633][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.37.15:633][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.37.15:633][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.37.15:633][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.37.15:633][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.37.15:636][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.37.15:694][474]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.37.15:695][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.37.15:695][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.37.15:695][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.37.15:696][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.20-10.37.15:696][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.20-10.37.15:697][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.20-10.37.15:699][474]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.20-10.37.15:699][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.20-10.37.15:699][474]LogAudio: Display: Audio Device (ID: 18) registered with world 'Carcel_FPS'.
+[2026.04.20-10.37.15:699][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.20-10.37.15:701][474]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.37.15:734][474]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.37.15
+[2026.04.20-10.37.15:737][474]LogWorld: Bringing up level for play took: 0.035374
+[2026.04.20-10.37.15:739][474]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.04.20-10.37.15:747][474]PIE: Server logged in
+[2026.04.20-10.37.15:748][474]PIE: Play in editor total start time 0.315 seconds.
+[2026.04.20-10.37.17:722][576]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.37.18:566][624]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.37.23:514][870]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.37.31:811][361]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.37.35:690][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8097.199219
+[2026.04.20-10.37.35:855][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.37.35:855][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8097.346680, Update Interval: 335.239716
+[2026.04.20-10.37.39:173][783]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.37.43:902][ 32]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.38.00:565][164]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.38.24:993][669]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.38.24:993][669]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.38.24:993][669]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.39.45:514][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.39.45:514][553]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.39.45:515][553]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.39.45:521][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.39.45:529][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.39.45:539][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.39.45:570][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-10.39.45:570][553]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.20-10.39.45:570][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.20-10.39.45:573][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.04.20-10.39.45:579][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.39.45:590][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.04.20-10.39.45:654][554]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.04.20-10.43.46:395][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8467.896484
+[2026.04.20-10.43.46:558][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.43.46:558][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8468.044922, Update Interval: 356.848663
+[2026.04.20-10.44.52:350][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.44.52:368][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.44.52:391][528]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.44.52:468][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077764s)
+[2026.04.20-10.44.52:468][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.077808s)
+[2026.04.20-10.44.52:497][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.04.20-10.44.52:502][528]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.44.52:504][528]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2026.04.20-10.44.52:505][528]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.44.52:505][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.44.52:505][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.44.52:505][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.44.52:505][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.44.52:505][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.44.52:508][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.44.52:567][528]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.44.52:567][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.44.52:567][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.44.52:567][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.44.52:567][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.20-10.44.52:567][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.20-10.44.52:570][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.20-10.44.52:570][528]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.20-10.44.52:570][528]LogAudio: Display: Audio Device (ID: 19) registered with world 'Carcel_FPS'.
+[2026.04.20-10.44.52:570][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.20-10.44.52:570][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.20-10.44.52:573][528]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.44.52:604][528]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.44.52
+[2026.04.20-10.44.52:606][528]LogWorld: Bringing up level for play took: 0.032971
+[2026.04.20-10.44.52:609][528]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.04.20-10.44.52:616][528]PIE: Server logged in
+[2026.04.20-10.44.52:617][528]PIE: Play in editor total start time 0.256 seconds.
+[2026.04.20-10.44.54:412][616]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.44.56:385][715]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.45.00:225][895]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.45.08:213][342]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.45.15:247][740]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.45.35:568][ 20]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.45.47:072][662]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.46.00:078][400]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.46.00:078][400]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.46.00:078][400]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.46.58:420][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.46.58:420][ 25]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.46.58:422][ 25]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.46.58:429][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.46.58:444][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.46.58:452][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.46.58:477][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.46.58:482][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.20-10.46.58:482][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.20-10.46.58:484][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.04.20-10.46.58:500][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.04.20-10.46.58:572][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.04.20-10.49.06:173][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-10.49.06:267][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2026.04.20-10.49.06:267][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2026.04.20-10.49.06:267][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset" SILENT=true
+[2026.04.20-10.49.06:272][428]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2026.04.20-10.49.06:272][428]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/BT_AIBA3B2E6E403E4CCE362C7B97B86E996C.tmp' to '../../../../../../Users/Matthew/Documents/GitHub/prisonScape_rp2/prisonScape/Content/AI/BT_AI.uasset'
+[2026.04.20-10.49.06:286][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.817 ms (total: 3.31 sec)
+[2026.04.20-10.49.06:358][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-10.49.06:358][428]LogContentValidation: Enabled validators:
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-10.49.06:358][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-10.49.06:358][428]AssetCheck: /Game/AI/BT_AI Validating asset
+[2026.04.20-10.49.11:447][746]LogSlate: Window 'BT_AI' being destroyed
+[2026.04.20-10.49.16:848][ 76]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_AI.BT_AI
+[2026.04.20-10.49.28:681][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-10.49.28:702][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-10.49.28:702][279]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.49.28:779][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077713s)
+[2026.04.20-10.49.28:779][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Carcel_FPS.Carcel_FPS to /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS (0.077753s)
+[2026.04.20-10.49.28:854][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.04.20-10.49.28:861][279]LogChaosDD: Creating Chaos Debug Draw Scene for world Carcel_FPS
+[2026.04.20-10.49.28:862][279]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2026.04.20-10.49.28:863][279]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-10.49.28:863][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-10.49.28:863][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-10.49.28:863][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-10.49.28:863][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-10.49.28:863][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-10.49.28:866][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-10.49.28:922][279]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3)
+[2026.04.20-10.49.28:922][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-10.49.28:922][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-10.49.28:922][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-10.49.28:923][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.20-10.49.28:923][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.20-10.49.28:926][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.20-10.49.28:926][279]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.20-10.49.28:926][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.20-10.49.28:926][279]LogAudio: Display: Audio Device (ID: 20) registered with world 'Carcel_FPS'.
+[2026.04.20-10.49.28:926][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.20-10.49.28:929][279]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-10.49.28:962][279]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS.Carcel_FPS up for play (max tick rate 0) at 2026.04.20-12.49.28
+[2026.04.20-10.49.28:964][279]LogWorld: Bringing up level for play took: 0.034787
+[2026.04.20-10.49.28:967][279]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.04.20-10.49.28:974][279]PIE: Server logged in
+[2026.04.20-10.49.28:975][279]PIE: Play in editor total start time 0.28 seconds.
+[2026.04.20-10.49.31:485][407]LogBlueprintUserMessages: [BP_AccessCard_C_3] card added
+[2026.04.20-10.49.32:648][470]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.20-10.49.36:988][678]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.49.44:641][122]LogBlueprintUserMessages: [BP_AccessCard_C_2] card added
+[2026.04.20-10.49.47:442][292]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.49.53:221][592]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:247][593]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:266][594]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:286][595]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:306][596]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:328][597]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:348][598]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:366][599]LogBlueprintUserMessages: [BP_AccessDoor_C_4] No tienes la tarjeta correcta
+[2026.04.20-10.49.53:463][604]LogBlueprintUserMessages: [BP_AccessDoor_C_2] doorinrange
+[2026.04.20-10.50.15:617][ 56]LogBlueprintUserMessages: [BP_AccessCard_C_0] card added
+[2026.04.20-10.50.16:346][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8857.829102
+[2026.04.20-10.50.16:526][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-10.50.16:526][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8857.994141, Update Interval: 348.440186
+[2026.04.20-10.50.26:361][665]LogBlueprintUserMessages: [BP_AccessDoor_C_4] doorinrange
+[2026.04.20-10.50.58:973][633]LogBlueprintUserMessages: [BP_AI_Controller_C_0] percepted
+[2026.04.20-10.50.58:973][633]LogBlueprintUserMessages: [BP_AI_Controller_C_0] rlivhriu
+[2026.04.20-10.50.58:973][633]LogBlueprintUserMessages: [BP_AI_Controller_C_0] works
+[2026.04.20-10.51.42:125][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.51.42:125][315]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Carcel_FPS
+[2026.04.20-10.51.42:127][315]LogWorld: UWorld::CleanupWorld for Carcel_FPS, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-10.51.42:133][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.51.42:148][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-10.51.42:158][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-10.51.42:188][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-10.51.42:189][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.20-10.51.42:189][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.20-10.51.42:191][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.20-10.51.42:195][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-10.51.42:204][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.04.20-10.51.42:276][316]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.04.20-10.51.43:664][404]LogSlate: Window 'BT_AI' being destroyed
+[2026.04.20-10.51.43:689][404]LogSlate: Window 'BT_AI' being destroyed
