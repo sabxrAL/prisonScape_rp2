@@ -1,2 +1,9 @@
-2026/04/21-18:20:10.515 15a4 Creating DB C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/21-18:20:10.536 15a4 Reusing MANIFEST C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-18:39:04.672 5c28 Reusing MANIFEST C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-18:39:04.673 5c28 Recovering log #3
+2026/04/21-18:39:04.673 5c28 Reusing old log C:/Users/Alumno/Documents/GitHub/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/04/21-18:49:19.729 50b4 Level-0 table #5: started
+2026/04/21-18:49:19.736 50b4 Level-0 table #5: 62855 bytes OK
+2026/04/21-18:49:19.745 50b4 Delete type=0 #3
+2026/04/21-18:50:29.900 608c Level-0 table #7: started
+2026/04/21-18:50:29.912 608c Level-0 table #7: 66725 bytes OK
+2026/04/21-18:50:29.923 608c Delete type=0 #4
