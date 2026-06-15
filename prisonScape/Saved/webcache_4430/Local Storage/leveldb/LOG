@@ -1,2 +1,15 @@
-2026/06/15-13:10:01.019 114c Creating DB C:/Users/Raúl/OneDrive/Documentos/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/15-13:10:01.032 114c Reusing MANIFEST C:/Users/Raúl/OneDrive/Documentos/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/15-14:14:07.270 37d0 Reusing MANIFEST C:/Users/Raúl/OneDrive/Documentos/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/15-14:14:07.271 37d0 Recovering log #3
+2026/06/15-14:14:07.271 37d0 Reusing old log C:/Users/Raúl/OneDrive/Documentos/prisonScape_rp2/prisonScape/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/06/15-14:34:12.854 4fc8 Level-0 table #5: started
+2026/06/15-14:34:12.857 4fc8 Level-0 table #5: 68569 bytes OK
+2026/06/15-14:34:12.860 4fc8 Delete type=0 #3
+2026/06/15-14:38:09.548 21b8 Level-0 table #7: started
+2026/06/15-14:38:09.552 21b8 Level-0 table #7: 70107 bytes OK
+2026/06/15-14:38:09.553 21b8 Delete type=0 #4
+2026/06/15-14:43:57.996 61f4 Level-0 table #9: started
+2026/06/15-14:43:57.999 61f4 Level-0 table #9: 71130 bytes OK
+2026/06/15-14:43:58.000 61f4 Delete type=0 #6
+2026/06/15-14:47:09.544 64b8 Level-0 table #11: started
+2026/06/15-14:47:09.547 64b8 Level-0 table #11: 66802 bytes OK
+2026/06/15-14:47:09.548 64b8 Delete type=0 #8
